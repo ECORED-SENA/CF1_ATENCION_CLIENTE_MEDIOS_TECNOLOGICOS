@@ -1,9 +1,11 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo:
+      'Factores y herramientas tecnológicas para la atención al cliente',
+    descripcionCurso:
+      'Los temas que se encuentran en este componente formativo, permiten identificar y conocer los factores y herramientas tecnológicas para la atención al cliente. Para su desarrollo, se estudiarán los medios tecnológicos, las redes sociales, la organización, el manual de funciones y procedimientos, el portafolio de servicios, la comunicación y atención al cliente.',
+    imagenBannerPrincipal: '',
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -22,30 +24,57 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Medios tecnológicos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Redes sociales y canales de comunicación',
         desarrolloContenidos: true,
+        subMenu: [],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'La organización',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Manual de funciones y procedimientos ',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Portafolio de servicios',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'Clientes',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        icono: 'far fa-file-alt',
+        numero: '7',
+        titulo: 'Atención al cliente',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema8',
+        icono: 'far fa-file-alt',
+        numero: '8',
+        titulo: 'Comunicación',
         desarrolloContenidos: true,
       },
     ],
@@ -91,31 +120,79 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Asaftei, L. P. (2018). La atención al cliente en los medios Sociales.',
+      link: '',
+    },
+    {
+      referencia:
+        'Brown, A. (1992). Gestión de la atención al cliente. Ediciones Díaz de Santos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Chaclón, C. O. (2013). La atención al cliente y el servicio postventa. Ediciones Diaz de Santos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Chiavenato, I. (2000). La organización. Introducción a la Teoría General de la Organización.(p 245). Bogotá: Mc Graw Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'García Ortíz, F., GARCÍA ORTIZ, P. P., & GIL MUELA, M. A. R. I. O. (2007). Técnicas de servicio y atención al cliente. Editorial Paraninfo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Garrido, F. J., & Javier, F. (2004). Comunicación estratégica. Gestión 2000. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Real Academia Española: Diccionario de la lengua española, 23.ª ed., [versión 23.4 en línea]. <https://dle.rae.es> [julio de 2021].',
+      link: '',
+    },
+    {
+      referencia:
+        'Wolton, D. (2007). Pensar la comunicación. Prometeo Libros Editorial.',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Atención',
+      significado: 'Cortesía, urbanidad, demostración de respeto u obsequio.',
     },
     {
-      termino: '<em>Término</em>',
-      significado: 'Definición',
+      termino: 'Cliente',
+      significado:
+        'Persona que utiliza los servicios de un profesional o de una empresa, especialmente la que lo hace regularmente.',
+    },
+    {
+      termino: 'Medios tecnológicos',
+      significado:
+        'Son los medios que requieren la intervención de un instrumento para poder transmitir un mensaje.',
+    },
+    {
+      termino: 'Cliente',
+      significado:
+        'Son plataformas digitales conformadas por individuos con diferentes intereses, actividades o relaciones en común. Estas permiten la comunicación e intercambio de información entre las personas. ',
     },
   ],
   complementario: [
     {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      link: 'https://www.google.com/',
+      texto:
+        'Chiavenato, I. (2000). Introducción a la Teoría General de la Organización. ',
+      tipo: 'Documento',
+      link:
+        'https://esmirnasite.files.wordpress.com/2017/07/i-admon-chiavenato.pdf',
     },
     {
-      texto: 'Nombre del material',
-      tipo: 'tipo',
-      descarga: '/downloads/prueba.pdf',
+      texto: 'Garrido, F. J., & Javier, F. (2004). Comunicación estratégica.',
+      tipo: 'Artículo',
+      link:
+        'https://www.researchgate.net/profile/Francisco-Garrido-4/publication/31735796_Comunicacion_estrategica_FJ_Garrido_M/links/56d8484108aee1aa5f7c3055/Comunicacion-estrategica-FJ-Garrido-M.pdf',
     },
   ],
   creditos: {
@@ -147,25 +224,67 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Carmen Alicia Martínez Torres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Erika Viviana Sandoval Rojas',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jaime Enrique Díaz Reyes',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Miguel Guerrero Gutiérrez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Luis Jesús Pérez Madariaga',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

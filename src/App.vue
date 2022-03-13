@@ -27,5 +27,11 @@ export default {
   },
 }
 </script>
-
-<style lang="sass"></style>
+<style lang="sass">
+.banner-interno__fondo
+  background-image: url(assets/curso/portada/fondo_temas.png) !important
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: #fff !important
+.curso-main-container > .container
+  overflow-x: clip !important
+</style>

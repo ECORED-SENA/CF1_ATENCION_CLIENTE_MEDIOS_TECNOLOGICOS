@@ -84,7 +84,7 @@
               p Es necesaria para el buen entendimiento entre las personas. Sirve para exponer o resolver dudas e informarse sobre hechos relevantes que están sucediendo.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema8/7.png')})`}")
       .col-sm-6.col-xl-4.col-md-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style="background-color:#FFDE96;")
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style="background-color:#FCB315;")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
@@ -104,7 +104,7 @@
 
     p.mt-5(data-aos="fade-up") En definitiva, la comunicación cumple una función esencial en la sociedad. La comunicación puede aportar información, tener objetivos contundentes o pedagógicos y buscar el entretenimiento si hablamos de ver una película o ir al cine. Es importante resaltar que, en cualquier profesión, relación social o formativa, la comunicación siempre está vigente. Y es por esta razón que se necesita que el proceso comunicativo funcione para que haya un buen entendimiento. #[br] La comunicación puede variar dependiendo de cómo se transmite la información y cómo es recibida por el receptor. Según esto, se puede clasificar la comunicación dentro de dos grandes grupos: verbal y no verbal.
 
-    p.mt-4(data-aos="fade-up") La comunicación verbal es aquella donde el mensaje es verbalizado, pues se utilizan las palabras ya sea de manera oral o escrita. Mientras que la comunicación no verbal es aquella que se da sin el uso de palabras, se utilizan gestos, miradas, movimientos corporales, entre otras expresiones. Por otra parte, es preciso mencionar que estos dos tipos de comunicación se utilizan también de forma simultánea al momento de transmitir un mensaje, considerando así una comunicación mixta (por ejemplo: el cine, las historietas, anuncios publicitarios, entre otros.
+    p.mt-4(data-aos="fade-up") La comunicación verbal es aquella donde el mensaje es verbalizado, pues se utilizan las palabras ya sea de manera oral o escrita. Mientras que la comunicación no verbal es aquella que se da sin el uso de palabras, se utilizan gestos, miradas, movimientos corporales, entre otras expresiones. Por otra parte, es preciso mencionar que estos dos tipos de comunicación se utilizan también de forma simultánea al momento de transmitir un mensaje, considerando así una comunicación mixta (por ejemplo: el cine, las historietas, anuncios publicitarios, entre otros).
 
     p.mt-5.p-2(style="border-left:4px #FCB315 solid;") &nbsp;#[strong Tabla 2] Comunicación verbal y no verbal
 

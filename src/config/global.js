@@ -175,9 +175,9 @@ export default {
         'Son los medios que requieren la intervención de un instrumento para poder transmitir un mensaje.',
     },
     {
-      termino: 'Cliente',
+      termino: 'Redes sociales',
       significado:
-        'Son plataformas digitales conformadas por individuos con diferentes intereses, actividades o relaciones en común. Estas permiten la comunicación e intercambio de información entre las personas. ',
+        'Son plataformas digitales conformadas por individuos con diferentes intereses, actividades o relaciones en común. Estas permiten la comunicación e intercambio de información entre las personas.',
     },
   ],
   complementario: [

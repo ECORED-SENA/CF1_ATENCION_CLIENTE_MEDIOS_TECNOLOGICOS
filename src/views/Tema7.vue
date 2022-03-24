@@ -27,7 +27,7 @@
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 3
-        | Simplificar y hacer que los canales de contacto sean más accesibles, aumentando la confianza y la fidelidad de los clientes.Recursos o materiales.
+        | Simplificar y hacer que los canales de contacto sean más accesibles, aumentando la confianza y la fidelidad de los clientes.
       li(data-aos="fade-up")
         .lista-ol--cuadro__vineta
           span 4

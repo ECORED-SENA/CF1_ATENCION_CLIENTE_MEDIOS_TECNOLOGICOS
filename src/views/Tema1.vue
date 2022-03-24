@@ -56,7 +56,7 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#FCB315 !important;")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/8.png')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#FFDE96;")
+            .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#FCB315;")
               p.p-2.mt-3.mb-3 El sistema debe centralizar todas las comunicaciones de los clientes con independencia del canal utilizado para contactar con la empresa. Es importante que todas las quejas, reclamaciones o solicitudes de información, sean analizadas y respondidas con independencia del canal utilizado por el cliente para realizarlas (chat, móvil, email, etc.). Para esto, es importante que la empresa cuente con un sistema de información integral, que recopila toda la información relativa de la comunicación con los clientes. 
       .col-sm-6.col-xl-4.col-md-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#FFDE96 !important;")
@@ -86,12 +86,6 @@ export default {
     indicadorTarjetaFlip: true,
     datosSlyder: [
       {
-        titulo: 'Live Chats y Chatbots',
-        texto:
-          'Sin duda este medio de atención al cliente permite atender al mismo con gran rapidez, por lo que se trata de un canal realmente eficaz. Hace algunos años aparecieron como una tecnología novedosa, que permite la atención automatizada del cliente utilizando la inteligencia artificial. Sus problemas radican en poder mantener una comunicación o conversación cuando se preguntan cosas meramente técnicas, aún no se domina bien el lenguaje natural. Esto a veces lleva a que las personas prefieran que les responda un humano u otra persona por estos chats. ',
-        imagen: require('@/assets/curso/temas/tema1/10.png'),
-      },
-      {
         titulo: 'Redes sociales',
         texto:
           'Las redes sociales, en los últimos años han experimentado un gran ascenso y manejo en torno al ámbito comercial. Es innegable que las empresas o marcas utilizan las redes sociales para hacer gestión de su marca, vender y mejorar su reputación, pero también es ampliamente utilizado por la gestión de la relación con el cliente. Es importante resaltar, que, para las empresas, las redes sociales son decisivas para la comunicación con el cliente, en práctica en igualdad con otras actividades como la venta.',
@@ -102,6 +96,12 @@ export default {
         texto:
           'Dentro de las aplicaciones de mensajería, es WhatsApp la que tiene mayor trayectoria. Para que este canal de comunicación funcione, es importante saber el grado de participación de los posibles clientes con esta aplicación y de esta forma entablar una comunicación con ellos. Es por esta razón, que la transformación digital de la empresa es eficaz, cuando la misma sabe adaptar su tecnología a los nuevos requerimientos del cliente.',
         imagen: require('@/assets/curso/temas/tema1/12.png'),
+      },
+      {
+        titulo: 'Live Chats y Chatbots',
+        texto:
+          'Sin duda este medio de atención al cliente permite atender al mismo con gran rapidez, por lo que se trata de un canal realmente eficaz. Hace algunos años aparecieron como una tecnología novedosa, que permite la atención automatizada del cliente utilizando la inteligencia artificial. Sus problemas radican en poder mantener una comunicación o conversación cuando se preguntan cosas meramente técnicas, aún no se domina bien el lenguaje natural. Esto a veces lleva a que las personas prefieran que les responda un humano u otra persona por estos chats. ',
+        imagen: require('@/assets/curso/temas/tema1/10.png'),
       },
       {
         titulo: 'Móvil o teléfono',

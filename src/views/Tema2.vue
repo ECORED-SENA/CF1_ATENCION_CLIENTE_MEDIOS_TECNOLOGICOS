@@ -13,6 +13,8 @@
       .col-md-6.col-sm-6.mb-3
         p(data-aos="fade-up") Es importante mencionar que los individuos no necesariamente se tienen que conocer antes de entrar en una red social, dejando entre visto, que al momento de interactuar o conocerse se convierte en uno de los mayores beneficios de estas comunidades virtuales. Veamos:
 
+    p.mt-4(data-aos="fade-up") Es importante conocer los objetivos de las redes sociales y su por qué: 
+
     ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto
       template(v-slot:imagen)
         figure
@@ -23,10 +25,10 @@
       .tarjeta.color-acento-botones.p-3(x="86%" y="42%" numero="2" style="background-color:#F6F6F6border-radius:0px !important")
         .h5.mb-2 Crear o mantener contacto
         p Las redes permiten crear un usuario en la red, conectarse y comunicarse con otros sin importar el lugar o tiempo (amigos, familia, parejas, relaciones laborales, etc.). 
-      .tarjeta.color-acento-botones.p-3(x="71%" y="86%" numero="3" style="background-color:#F6F6F6border-radius:0px !important")
+      .tarjeta.color-acento-botones.p-3(x="24%" y="86%" numero="3" style="background-color:#F6F6F6border-radius:0px !important")
         .h5.mb-2 Entretenerse
         p Permiten crear comunidades con intereses similares. Convirtiéndose en una gran fuente de entretenimiento y distensión.
-      .tarjeta.color-acento-botones.p-3(x="24%" y="86%" numero="4" style="background-color:#F6F6F6border-radius:0px !important")
+      .tarjeta.color-acento-botones.p-3(x="71%" y="86%" numero="4" style="background-color:#F6F6F6border-radius:0px !important")
         .h5.mb-2 Informarse
         p Las redes sociales manejan una gran cantidad de información que permite a los usuarios mantenerse informados sobre acontecimientos importantes o temáticas de interés. 
       .tarjeta.color-acento-botones.p-3(x="9%" y="42%" numero="5" style="background-color:#F6F6F6border-radius:0px !important")
@@ -75,37 +77,13 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/3.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Son masivas
-            p Las redes sociales involucran a una gran porción de la población y ha logrado eliminar las barreras culturales y etarias.
+            h5 Brindan oportunidades laborales
+            p Hay empresas que utilizan las redes sociales para dar a conocer su oferta y a su vez estas permiten conocer el perfil laboral de los usuarios. Entre estas redes está LinkedIn, se crearon con el objetivo específico de formar comunidades de profesionales. 
           .col-md-1
         .row
           .col-md-1
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/4.png" style="max-width:100px;display:inline")
-          .col-md-8
-            h5 Acortan distancias
-            p Permiten la comunicación con amigos, familiares y cualquier usuario de la red sin importar la distancia geográfica.
-          .col-md-1
-        .row
-          .col-md-1
-          .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/5.png" style="max-width:100px;display:inline")
-          .col-md-8
-            h5 Aumentan la visibilidad de las marcas
-            p La publicidad y la creación de perfiles corporativos han hecho de las redes sociales un nuevo mercado. Permiten conectar compradores y vendedores de cualquier parte del mundo.
-          .col-md-1
-        .row
-          .col-md-1
-          .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/6.png" style="max-width:100px;display:inline")
-          .col-md-8
-            h5 Funcionan como un canal
-            p Funcionan como medios de aprendizaje, entretenimiento e información, este dependerá del contenido en el que esté interesado el usuario. 
-          .col-md-1
-        .row
-          .col-md-1
-          .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/7.png" style="max-width:100px;display:inline")
           .col-md-8
             h5 Comparten información
             p Permiten compartir archivos de manera instantánea y sencilla: documentos, música, fotografías, videos.
@@ -113,10 +91,34 @@
         .row
           .col-md-1
           .col-md-2.text-center
+            img(src="@/assets/curso/temas/tema2/5.png" style="max-width:100px;display:inline")
+          .col-md-8
+            h5 Funcionan como un canal
+            p Funcionan como medios de aprendizaje, entretenimiento e información, este dependerá del contenido en el que esté interesado el usuario. 
+          .col-md-1
+        .row
+          .col-md-1
+          .col-md-2.text-center
+            img(src="@/assets/curso/temas/tema2/6.png" style="max-width:100px;display:inline")
+          .col-md-8
+            h5 Aumentan la visibilidad de las marcas
+            p La publicidad y la creación de perfiles corporativos han hecho de las redes sociales un nuevo mercado. Permiten conectar compradores y vendedores de cualquier parte del mundo.
+          .col-md-1
+        .row
+          .col-md-1
+          .col-md-2.text-center
+            img(src="@/assets/curso/temas/tema2/7.png" style="max-width:100px;display:inline")
+          .col-md-8
+            h5 Acortan distancias
+            p Permiten la comunicación con amigos, familiares y cualquier usuario de la red sin importar la distancia geográfica.
+          .col-md-1
+        .row
+          .col-md-1
+          .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/8.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Brindan oportunidades laborales
-            p Hay empresas que utilizan las redes sociales para dar a conocer su oferta y a su vez estas permiten conocer el perfil laboral de los usuarios. Entre estas redes está LinkedIn, se crearon con el objetivo específico de formar comunidades de profesionales. 
+            h5 Son masivas
+            p Las redes sociales involucran a una gran porción de la población y ha logrado eliminar las barreras culturales y etarias.
           .col-md-1
 
     h5.mt-5(data-aos="fade-up") Tipos de redes sociales
@@ -134,14 +136,14 @@
           img(src="@/assets/curso/temas/tema2/14.png" style="max-width:100px;" @mouseover="mostrarIndicador = false")
           h5.mt-5 Red social de entretenimiento
           p Son aquellas en las que el objetivo principal no es relacionarse con las personas, sino consumir contenido. Aquí encontramos a YouTube, su función gira en la distribución de vídeos, con el objetivo de publicar y ver vídeos. Otra app de este tipo es Pinterest, en el que las personas publican y consumen imágenes.
-      .strip.cortain3(style="background-color:#FFDE96;")
+      .strip.cortain3(style="background-color:#A4A3FF;")
         .content
           img(src="@/assets/curso/temas/tema2/15.png" style="max-width:100px;" @mouseover="mostrarIndicador = false")
           h5.mt-5 Red social profesional
           p Aquí los usuarios tienen como objetivo crear relaciones profesionales con otros usuarios, presentar su currículum y habilidades, además de conseguir empleos, etc. La app más conocida es LinkedIn. Por otra parte, hay redes que no son exclusivamente profesionales pero que también se han utilizado para este fin, como Facebook, Instagram, YouTube, Twitter y Pinterest.
-      .strip.cortain4(style="background-color:#A4A3FF;")
+      .strip.cortain4(style="background-color:#FFDE96;")
         .content
-          img(src="@/assets/curso/temas/tema2/15.png" style="max-width:100px;" @mouseover="mostrarIndicador = false")
+          img(src="@/assets/curso/temas/tema2/16.png" style="max-width:100px;" @mouseover="mostrarIndicador = false")
           h5.mt-5 Red social de nicho
           p Son aquellas dirigidas a un público específico, ya sea una categoría profesional o personas que tienen un interés específico en común. Aquí encontramos app de lecturas, comunidades de artistas, gastronomía, etc.
 
@@ -162,16 +164,16 @@ export default {
     mostrarIndicador: true,
     datosSlyder: [
       {
-        titulo: 'Establece imagen de marca',
-        texto:
-          'Es una de las funciones principales que aportan las redes sociales para las empresas, estas deberán gestionarse adecuadamente o puede convertirse en un problema de imagen y reputación (una página de Facebook desactualizada no da muy buena imagen…). Por esta razón, es importante saber cuál red social es la conveniente para la empresa y esta dependerá de la manera cómo actúan los clientes.',
-        imagen: require('@/assets/curso/temas/tema2/17.png'),
-      },
-      {
         titulo: 'Visitas al sitio web o comercio electrónico',
         texto:
           'Es el principal objetivo de marketing en redes sociales. Generar contenido, aumentar el número de seguidores, aumentar el nivel de compromisos de los consumidores con la marca, etc. Esto permite enlaces hacia la tienda online que más tarde deberán traducirse en ventas, esto dependerá de la captación y conversión.',
         imagen: require('@/assets/curso/temas/tema2/18.png'),
+      },
+      {
+        titulo: 'Establece imagen de marca',
+        texto:
+          'Es una de las funciones principales que aportan las redes sociales para las empresas, estas deberán gestionarse adecuadamente o puede convertirse en un problema de imagen y reputación (una página de Facebook desactualizada no da muy buena imagen…). Por esta razón, es importante saber cuál red social es la conveniente para la empresa y esta dependerá de la manera cómo actúan los clientes.',
+        imagen: require('@/assets/curso/temas/tema2/17.png'),
       },
       {
         titulo: 'Establece un canal de comunicación con los clientes',

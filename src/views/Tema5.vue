@@ -83,7 +83,7 @@
           td Abierto en horario de comidas y cenas de martes a domingo, por ejemplo. #[br] horario de atención: 10:00 am a 3:00 pm los días Martes a Domingo
         tr(style="background-color:#F6F6F6;")
           th Valores
-          td Características del establecimiento: Dar de comer al cliente en un entorno cálido donde tenga todas las comodidades.
+          td Características del establecimiento: dar de comer al cliente en un entorno cálido donde tenga todas las comodidades.
         tr(style="background-color:#fff;")
           th Certificaciones
           td Certificaciones de sanidad, premios culinarios obtenidos, etc.

@@ -74,6 +74,45 @@
 
         p.mt-4 #[strong Cliente insatisfecho:] aquí el cliente percibe que el ofrecimiento entregado no corresponde a lo que deseaba, por lo que se considera engañado o defraudado por la empresa. Este cliente es de cuidado o peligroso, porque inmediatamente se pasan a la competencia o puede generar una mala reputación o publicidad negativa del negocio, por ello la empresa debe prestarles mucha atención. La empresa debe centrarse en escucharle y conocer cuáles son los motivos de su descontento para poder argumentar y cambiar esta opinión.
 
+        h4.mt-5 Por el volumen de compra
+
+        p.mt-4 #[strong Clientes de alto volumen de compra:] estos se convierten en clientes prioritarios para la empresa, debido a su gran cantidad de compra y que logra representar un porcentaje alto en sus ventas. Se consideran clientes que están satisfechos con el producto. Son conocidos como clientes mayoristas o al por mayor. Muchas veces las empresas valoran a este tipo de cliente otorgándole descuentos o ciertas promociones. 
+
+        p.mt-4 #[strong Clientes con volumen promedio de compra:] realizan compran en forma repetida en un volumen promedio, esto significa que si están contentos con la marca y el producto. Los clientes de este tipo deben de ser obsequiados con recompensas por su fidelidad. Por ejemplo, en una barbería, si el cliente acude 10 veces, el siguiente corte de pelo le saldrá gratis.
+
+        p.mt-4 #[strong Clientes de bajo volumen de compra:] pueden ser clientes ocasionales o clientes que les agrada el producto y están contentos, pero su capacidad adquisitiva no les permite comprar en mayor cantidad. Son los clientes retail, minoristas o al por menor.
+
+        h4.mt-5 Por su influencia
+
+        p.mt-4 #[strong Clientes muy influyentes:] son personas que tienen un nivel de influencia muy alto para generar una opinión positiva o negativa sobre un número muy grande de usuarios, por lo general son líderes de opinión. Estos clientes pueden actuar como imagen comercial de la empresa, aquí es importante trabajar su satisfacción y tratar de que hablen de los productos o servicios de la empresa. Por ejemplo, algunas empresas le pagan a artistas o deportistas para que hablen bien de sus productos o para que utilicen sus productos en público. Esto con el fin de generar un impacto en los consumidores y como consecuencia en su nivel de ventas.
+
+        p.mt-4 #[strong Clientes con influencia promedio:] los que tienen influencia media, son personas que son especialistas de un área y que al hablar bien o mal del producto, puede mover a un buen número de personas para que prueben y prefieran ciertos productos o servicios. Por ejemplo, un médico que receta un medicamento.
+
+        p.mt-4 #[strong Clientes de influencia familiar:] son aquellos que pueden influir sobre la decisión de compra dentro de los grupos familiares, lo que va creando una lealtad y fidelidad de la marca. Por ejemplo, los cereales que les dan a los bebés porque se los recomienda la abuelita.
+
+        h4.mt-5 Por su frecuencia
+
+        p.mt-4 #[strong Cliente de compra frecuente:] compran de forma periódica los productos y marcas, están satisfechos; las empresas intentan fidelizar a estos clientes para que su relación se mantenga por tiempos prolongados. Es aquí, donde la empresa deberá mantener un trato personalizado y especial con estos clientes.
+
+        p.mt-4 #[strong Cliente de compra habitual:] realizan sus compras con cierto patrón de regularidad, se puede decir que si les gusta el producto. Y es aquí, donde las empresas buscan aumentar la frecuencia de sus compras por medio de estrategias.
+
+        p.mt-4 #[strong Cliente de compra ocasional:] son los que se acercan a demandar nuestros bienes y servicios una sola vez, o de vez en cuando. Aquí es donde las empresas deben manejar cierta información y comunicación para hacer seguimiento a estos clientes y de esta forma solicitar información que pueda servir para tratar de convertirlos en clientes habituales o frecuentes.
+
+        h4.mt-5 Por su vigencia
+
+        p.mt-4 #[strong Cliente activo:] son los que compran con cierta regularidad, se les debe prestar mucha atención porque son los que están formando el nivel de ventas y de ingresos. Es aquí donde la empresa debe buscar los medios para conservarlos y retenerlos.
+
+        p.mt-4 #[strong Cliente inactivo:] es el que en alguna oportunidad compró algún producto y que por alguna razón ya no lo hace. Es necesario ubicarlos para conocer la causa o razón por la que abandonaron la empresa y buscar la forma de recuperarlos y volver a realizar otra compra.
+
+        h4.mt-5 Clientes potenciales 
+
+        p.mt-4 Son los posibles nuevos clientes que podrían tener la intención y la capacidad adquisitiva para adquirir productos o servicios de la empresa. Los clientes potenciales les permiten a las empresas desarrollarse y crecer de una forma saludable y positiva.
+
+        p.mt-4 El cliente potencial debe tener un perfil adecuado, poder adquisitivo, una necesidad real o cualquier otro factor. Son algunas de las características que buscan las empresas para poderlos considerar como posibles candidatos para ser incorporados a la empresa. #[br] Pueden ser determinantes para proyectar el futuro del negocio.
+
+        p.mt-4 Es importante mencionar, que los clientes potenciales reciben multitud de propuestas, pero sólo comprarán aquella que perciban que les va a satisfacer una necesidad. Es por esta razón que se hace necesario tener un trato especial donde permita mostrar que la empresa está enfocada en resolver sus problemas. 
+
+
 
 
 

@@ -15,25 +15,9 @@
 
     p.mt-4(data-aos="fade-up") Es importante conocer los objetivos de las redes sociales y su por qué: 
 
-    ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/temas/tema2/1.png', alt='')
-      .tarjeta.color-acento-botones.p-3(x="48%" y="12%" numero="1" style="background-color:#F6F6F6border-radius:0px !important")
-        .h5.mb-2 Comunicar y compartir
-        p Son plataformas para el intercambio de información u opinión. Según su tipo permite compartir imágenes, videos, documentos, opiniones e información.
-      .tarjeta.color-acento-botones.p-3(x="86%" y="42%" numero="2" style="background-color:#F6F6F6border-radius:0px !important")
-        .h5.mb-2 Crear o mantener contacto
-        p Las redes permiten crear un usuario en la red, conectarse y comunicarse con otros sin importar el lugar o tiempo (amigos, familia, parejas, relaciones laborales, etc.). 
-      .tarjeta.color-acento-botones.p-3(x="24%" y="86%" numero="3" style="background-color:#F6F6F6border-radius:0px !important")
-        .h5.mb-2 Entretenerse
-        p Permiten crear comunidades con intereses similares. Convirtiéndose en una gran fuente de entretenimiento y distensión.
-      .tarjeta.color-acento-botones.p-3(x="71%" y="86%" numero="4" style="background-color:#F6F6F6border-radius:0px !important")
-        .h5.mb-2 Informarse
-        p Las redes sociales manejan una gran cantidad de información que permite a los usuarios mantenerse informados sobre acontecimientos importantes o temáticas de interés. 
-      .tarjeta.color-acento-botones.p-3(x="9%" y="42%" numero="5" style="background-color:#F6F6F6border-radius:0px !important")
-        .h5.mb-2 Vender/comprar
-        p Algunas redes sociales se han establecido como canales para la compra y venta de bienes o servicios. Aquí podemos encontrar plataformas como Instagram o Facebook, donde el usuario puede seguir a los negocios y establecer con ellos actuaciones comerciales. 
+    figure.mt-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/asgajqzFAXQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mt-5(data-aos="fade-up") Por otra parte, encontramos las características de las redes sociales
 

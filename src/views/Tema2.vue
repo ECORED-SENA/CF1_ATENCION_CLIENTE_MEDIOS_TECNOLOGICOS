@@ -75,34 +75,10 @@
         .row
           .col-md-1
           .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/3.png" style="max-width:100px;display:inline")
+            img(src="@/assets/curso/temas/tema2/8.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Brindan oportunidades laborales
-            p Hay empresas que utilizan las redes sociales para dar a conocer su oferta y a su vez estas permiten conocer el perfil laboral de los usuarios. Entre estas redes está LinkedIn, se crearon con el objetivo específico de formar comunidades de profesionales. 
-          .col-md-1
-        .row
-          .col-md-1
-          .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/4.png" style="max-width:100px;display:inline")
-          .col-md-8
-            h5 Comparten información
-            p Permiten compartir archivos de manera instantánea y sencilla: documentos, música, fotografías, videos.
-          .col-md-1
-        .row
-          .col-md-1
-          .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/5.png" style="max-width:100px;display:inline")
-          .col-md-8
-            h5 Funcionan como un canal
-            p Funcionan como medios de aprendizaje, entretenimiento e información, este dependerá del contenido en el que esté interesado el usuario. 
-          .col-md-1
-        .row
-          .col-md-1
-          .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/6.png" style="max-width:100px;display:inline")
-          .col-md-8
-            h5 Aumentan la visibilidad de las marcas
-            p La publicidad y la creación de perfiles corporativos han hecho de las redes sociales un nuevo mercado. Permiten conectar compradores y vendedores de cualquier parte del mundo.
+            h5 Son masivas
+            p Las redes sociales involucran a una gran porción de la población y ha logrado eliminar las barreras culturales y etarias.
           .col-md-1
         .row
           .col-md-1
@@ -115,10 +91,34 @@
         .row
           .col-md-1
           .col-md-2.text-center
-            img(src="@/assets/curso/temas/tema2/8.png" style="max-width:100px;display:inline")
+            img(src="@/assets/curso/temas/tema2/6.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Son masivas
-            p Las redes sociales involucran a una gran porción de la población y ha logrado eliminar las barreras culturales y etarias.
+            h5 Aumentan la visibilidad de las marcas
+            p La publicidad y la creación de perfiles corporativos han hecho de las redes sociales un nuevo mercado. Permiten conectar compradores y vendedores de cualquier parte del mundo.
+          .col-md-1
+        .row
+          .col-md-1
+          .col-md-2.text-center
+            img(src="@/assets/curso/temas/tema2/5.png" style="max-width:100px;display:inline")
+          .col-md-8
+            h5 Funcionan como un canal
+            p Funcionan como medios de aprendizaje, entretenimiento e información, este dependerá del contenido en el que esté interesado el usuario. 
+          .col-md-1
+        .row
+          .col-md-1
+          .col-md-2.text-center
+            img(src="@/assets/curso/temas/tema2/4.png" style="max-width:100px;display:inline")
+          .col-md-8
+            h5 Comparten información
+            p Permiten compartir archivos de manera instantánea y sencilla: documentos, música, fotografías, videos.
+          .col-md-1
+        .row
+          .col-md-1
+          .col-md-2.text-center
+            img(src="@/assets/curso/temas/tema2/3.png" style="max-width:100px;display:inline")
+          .col-md-8
+            h5 Brindan oportunidades laborales
+            p Hay empresas que utilizan las redes sociales para dar a conocer su oferta y a su vez estas permiten conocer el perfil laboral de los usuarios. Entre estas redes está LinkedIn, se crearon con el objetivo específico de formar comunidades de profesionales. 
           .col-md-1
 
     h5.mt-5(data-aos="fade-up") Tipos de redes sociales
@@ -240,7 +240,7 @@ export default {
 .strip
   align-items: center
   display: flex
-  height: 100vh
+  height: 55vh
   justify-content: center
   overflow: hidden
 .strip .content
@@ -264,7 +264,7 @@ export default {
   padding-left: 2.92em
 .strip.hoverin .content
   opacity: 1
-  padding: 4em
+  padding: 0.5em
   transform: scale(1)
   width: 100%
 .strip.hoverin .content h1,
@@ -330,5 +330,5 @@ export default {
   .strip
     max-height: 150px
   .strip.hoverin
-    max-height: 100vh
+    max-height: 55vh
 </style>

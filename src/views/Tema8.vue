@@ -16,10 +16,10 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema8/1.png', alt='')
-      .tarjeta.color-acento-botones.p-3(x="48%" y="5%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
+      .tarjeta.color-acento-botones.p-3(x="91%" y="28%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2 Función emotiva
         p Cuando se expresan sentimientos o emociones, se habla de comunicación emotiva y la función es transmitir esa mezcla de estados emocionales que existen.
-      .tarjeta.color-acento-botones.p-3(x="91%" y="28%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
+      .tarjeta.color-acento-botones.p-3(x="48%" y="5%" numero="01" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2 Función representativa
         p Se da cuando se informa de manera objetiva un hecho determinado o una noticia.
       .tarjeta.color-acento-botones.p-3(x="92%" y="72%" numero="03" style="background-color:#F6F6F6;border-radius:0px;")

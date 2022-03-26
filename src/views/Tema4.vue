@@ -40,6 +40,11 @@
               h5.p-4(style="background-color:#A4A3FF;bottom: -12px;position: absolute;width: 100%;") Requisitos
 
     br
+    p.mt-5(data-aos="fade-up") Un manual de funciones deberá contener:
+
+    figure.mt-5.col-md-10.m-auto
+      img(src="@/assets/curso/temas/tema4/5.png" data-aos="zoom-in")
+
     h5.mt-5(data-aos="fade-up") Manual de procedimiento
 
     .row.mt-4

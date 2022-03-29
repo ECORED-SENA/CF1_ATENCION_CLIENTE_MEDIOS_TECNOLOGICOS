@@ -15,7 +15,7 @@
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Rellenar los espacios en blanco 
+              p.fw-bold.mb-0 Relacionar términos 
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad1/')" target="_blank")
                 span Realizar
@@ -33,7 +33,7 @@
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Arrastrar y soltar
+              p.fw-bold.mb-0 Relacionar términos
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad2/')" target="_blank")
                 span Realizar

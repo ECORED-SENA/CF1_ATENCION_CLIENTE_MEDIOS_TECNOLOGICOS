@@ -17,12 +17,12 @@
 
     .row.mt-5
       .col-md-6.mb-3(style="padding:0px;")
-        h5.mb-0.text-center.p-4(style="background-color:#7F79FB;" data-aos="fade-up") Portafolio físico
+        h3.mb-0.text-center.p-4(style="background-color:#7F79FB;" data-aos="fade-up") Portafolio físico
         img(src="@/assets/curso/temas/tema5/1.png" data-aos="fade-in")
         .p-5(style="background-color:#A4A3FF;")
           p(data-aos="fade-up") Es un documento impreso que se diseña de diversas formas. Se debe exponer la información de manera clara y concisa. La metodología más común es por medio de un díptico o tríptico, aunque también se presenta como manual.
       .col-md-6.mb-3(style="padding:0px;")
-        h5.mb-0.text-center.p-4(style="background-color:#FCB315;" data-aos="fade-up") Portafolio digital
+        h3.mb-0.text-center.p-4(style="background-color:#FCB315;" data-aos="fade-up") Portafolio digital
         img(src="@/assets/curso/temas/tema5/2.png" data-aos="fade-in")
         .p-5(style="background-color:#FFDE96;")
           p(data-aos="fade-up") Se usa en medios digitales para enviar a clientes potenciales por medio de enlaces, emails y mensajes. Se elaboran o diseñan de la misma forma que los físicos y sus medios de lectura son dispositivos como las tablets, computadoras y smartphones.
@@ -32,7 +32,7 @@
     ImagenInfografica.color-secundario.mt-5.col-md-8.m-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema5/3.png', alt='')
+          img(src='@/assets/curso/temas/tema5/3.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="48%" y="17%" numero="1" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2 Presentación
         p Se ofrece una primera información más bien genérica sobre la empresa. Año de fundación, nombre, etc.

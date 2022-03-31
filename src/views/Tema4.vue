@@ -45,7 +45,7 @@
     figure.mt-5.col-md-10.m-auto
       img(src="@/assets/curso/temas/tema4/5.png" data-aos="zoom-in")
 
-    h5.mt-5(data-aos="fade-up") Manual de procedimiento
+    h3.mt-5(data-aos="fade-up") Manual de procedimiento
 
     .row.mt-4
       .col-md-6.mb-2
@@ -91,7 +91,7 @@
         span.text-bold k. 
         | Son guías de trabajo a ejecutar.
 
-    h5.mt-5(data-aos="fade-up") Conformación del manual de procedimientos
+    h3.mt-5(data-aos="fade-up") Conformación del manual de procedimientos
     p(data-aos="fade-up") A continuación, se mencionan algunos datos que debe tener presente al momento de realizar un manual de procedimientos.
 
     TabsA.color-acento-botones.mt-5

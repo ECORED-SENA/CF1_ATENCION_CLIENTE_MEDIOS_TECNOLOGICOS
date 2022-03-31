@@ -9,13 +9,13 @@
 
     p(data-aos="fade-up") La comunicación es el intercambio de información que se produce entre dos o más individuos con el objetivo de aportar información y recibirla. En este proceso intervienen un emisor y un receptor, además del mensaje que se pone de manifiesto.
 
-    h5.mt-5(data-aos="fade-up") Funciones de la comunicación
+    h3.mt-5(data-aos="fade-up") Funciones de la comunicación
     p(data-aos="fade-up") A continuación, se mencionan algunos datos que debe tener presente al momento de realizar un manual de procedimientos.
 
     ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema8/1.png', alt='')
+          img(src='@/assets/curso/temas/tema8/1.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="91%" y="28%" numero="02" style="background-color:#F6F6F6;border-radius:0px;")
         .h5.mb-2 Función emotiva
         p Cuando se expresan sentimientos o emociones, se habla de comunicación emotiva y la función es transmitir esa mezcla de estados emocionales que existen.
@@ -35,7 +35,7 @@
         .h5.mb-2 Función Poética
         p Se centra en la parte estética del mensaje. Suele utilizarse en el aspecto literario y en también en el ámbito de la publicidad.
 
-    h5.mt-5(data-aos="fade-up") Elementos en el proceso de comunicación
+    h3.mt-5(data-aos="fade-up") Elementos en el proceso de comunicación
     p(data-aos="fade-up") Para que exista una comunicación eficaz, se deben tener en cuenta ciertos elementos para el proceso de la comunicación. Estos son los principales:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4 col-md-4")
@@ -70,7 +70,7 @@
         h5.mt-5 Código
         p Se trata de un elemento importante para que se comprenda fácilmente el mensaje y haya entendimiento entre emisor y receptor. El código lo conforman datos y reglas que comparten ambos para comprender la información.
 
-    h5.mt-5(data-aos="fade-up") Características de la comunicación
+    h3.mt-5(data-aos="fade-up") Características de la comunicación
     p(data-aos="fade-up") Es necesaria para el buen entendimiento entre las personas. Sirve para exponer o resolver dudas e informarse sobre hechos relevantes que están sucediendo. #[br] Los roles se intercambian continuamente. Por ejemplo, en una conversación el emisor y el receptor pueden intercambiar sus papeles en cualquier momento. #[br] Mejora la organización social. Las personas que forman parte de comunidades y sociedades utilizan la comunicación para establecer acuerdos, reglas y normas para vivir de forma organizada y respetuosa.
 
     .row.mt-5

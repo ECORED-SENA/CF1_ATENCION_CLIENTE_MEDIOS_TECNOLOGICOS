@@ -43,7 +43,7 @@
           span 5
         | Permiten a cada usuario crear un perfil dentro de la red para poder interactuar con los demás.
 
-    h5.mt-5(data-aos="fade-up") Ventajas de las redes sociales
+    h3.mt-5(data-aos="fade-up") Ventajas de las redes sociales
     p(data-aos="fade-up") Las redes sociales nos brindan una serie de ventajas o beneficios, y esto les ha permitido ser protagonistas dentro de la web. Entre estas ventajas encontramos:
 
     .tarjeta.tarjeta--azul.p-4.mb-5.mt-5(style="background-color:#FFDE96")
@@ -105,7 +105,7 @@
             p Hay empresas que utilizan las redes sociales para dar a conocer su oferta y a su vez estas permiten conocer el perfil laboral de los usuarios. Entre estas redes está LinkedIn, se crearon con el objetivo específico de formar comunidades de profesionales. 
           .col-md-1
 
-    h5.mt-5(data-aos="fade-up") Tipos de redes sociales
+    h3.mt-5(data-aos="fade-up") Tipos de redes sociales
     p(data-aos="fade-up") Las redes sociales por lo general se dividen en diferentes tipos, algunas de ellas pueden pertenecer más de un tipo. Entre sus clasificaciones más comunes encontramos:
     
     .strips.mt-5.indicador__container
@@ -131,7 +131,7 @@
           h5.mt-5 Red social de nicho
           p Son aquellas dirigidas a un público específico, ya sea una categoría profesional o personas que tienen un interés específico en común. Aquí encontramos app de lecturas, comunidades de artistas, gastronomía, etc.
 
-    h5.mt-5(data-aos="fade-up") Contribuciones de las redes sociales como canal de atención al cliente
+    h3.mt-5(data-aos="fade-up") Contribuciones de las redes sociales como canal de atención al cliente
     p(data-aos="fade-up") Actualmente, las redes sociales se han convertido en el espacio principal en el que los usuarios son clientes de diferentes productos, marcas o servicios. Son estos espacios los que permiten a las empresas dar a conocer su oferta de servicios y de productos, establecer su imagen de marca y los canales de comunicación con sus clientes, socializar el proceso de compra y apoyar sus ventas.
     
     p.mt-4(data-aos="fade-up") Estudiemos cuáles son las contribuciones de las redes sociales como canal de atención al cliente.

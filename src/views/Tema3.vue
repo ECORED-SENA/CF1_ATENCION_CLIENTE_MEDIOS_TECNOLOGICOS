@@ -37,7 +37,7 @@
           span 5
         | Normas o convenciones que definen la relación de las personas o trabajadores y su rol en la organización.
 
-    h5.mt-5(data-aos="fade-up") Tipos de organizaciones
+    h3.mt-5(data-aos="fade-up") Tipos de organizaciones
     p(data-aos="fade-up") Las organizaciones se pueden clasificar de diversas formas. A continuación, vemos algunas de las más relevantes:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4 col-md-4")

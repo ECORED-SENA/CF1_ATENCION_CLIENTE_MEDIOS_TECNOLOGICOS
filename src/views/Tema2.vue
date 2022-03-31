@@ -201,12 +201,6 @@ export default {
 }
 </script>
 <style lang="sass">
-.img-infografica__item__numero, .img-infografica-b__item__numero
-  left: 140%
-.img-infografica__item__dot, .img-infografica-b__item__dot
-  padding: 1.1rem 1.1rem
-.img-infografica__item__numero, .img-infografica-b__item__numero
-  font-size: 22px
 .slyder-a__tipo-a .slyder-a__bullets
   display: none
 .slyder-a__btn--sigt, .slyder-a__btn--atrs

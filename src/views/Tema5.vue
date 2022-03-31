@@ -152,12 +152,6 @@ export default {
 }
 </script>
 <style lang="sass">
-.img-infografica__item__numero, .img-infografica-b__item__numero
-  left: 100%
-.img-infografica__item__dot, .img-infografica-b__item__dot
-  padding: 1.2rem 1.3rem 1.2rem 1.3rem
-.img-infografica__item__numero, .img-infografica-b__item__numero
-  font-size: 1.5rem
 .img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after, .img-infografica.color-secundario .img-infografica-b__item__dot:before, .img-infografica.color-secundario .img-infografica-b__item__dot:after, .img-infografica-b.color-secundario .img-infografica__item__dot:before, .img-infografica-b.color-secundario .img-infografica__item__dot:after, .img-infografica-b.color-secundario .img-infografica-b__item__dot:before, .img-infografica-b.color-secundario .img-infografica-b__item__dot:after
   background-color: #ffffff
 </style>

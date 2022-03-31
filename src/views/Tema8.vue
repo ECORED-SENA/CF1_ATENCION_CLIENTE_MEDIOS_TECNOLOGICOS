@@ -12,7 +12,7 @@
     h3.mt-5(data-aos="fade-up") Funciones de la comunicación
     p(data-aos="fade-up") A continuación, se mencionan algunos datos que debe tener presente al momento de realizar un manual de procedimientos.
 
-    ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto
+    ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto.cont_infografia_tema8
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema8/1.svg', alt='')
@@ -183,15 +183,10 @@ export default {
   },
 }
 </script>
-<style lang="sass">
-.img-infografica__item__numero, .img-infografica-b__item__numero
-  left: 140%
-.img-infografica__item__dot, .img-infografica-b__item__dot
-  padding: 1.4rem 1.5rem 1.4rem 1.5rem
-.img-infografica__item__numero, .img-infografica-b__item__numero
-  font-size: 1.5rem
-.img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after, .img-infografica.color-secundario .img-infografica-b__item__dot:before, .img-infografica.color-secundario .img-infografica-b__item__dot:after, .img-infografica-b.color-secundario .img-infografica__item__dot:before, .img-infografica-b.color-secundario .img-infografica__item__dot:after, .img-infografica-b.color-secundario .img-infografica-b__item__dot:before, .img-infografica-b.color-secundario .img-infografica-b__item__dot:after
-  background-color: #6965f6
+<style lang="sass" scoped>
+.cont_infografia_tema8
+  .img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after, .img-infografica.color-secundario .img-infografica-b__item__dot:before, .img-infografica.color-secundario .img-infografica-b__item__dot:after, .img-infografica-b.color-secundario .img-infografica__item__dot:before, .img-infografica-b.color-secundario .img-infografica__item__dot:after, .img-infografica-b.color-secundario .img-infografica-b__item__dot:before, .img-infografica-b.color-secundario .img-infografica-b__item__dot:after
+    background-color: #6965f6
 .slyder-f__btn i
   background-color: #A4A3FF
   border-radius: 50%

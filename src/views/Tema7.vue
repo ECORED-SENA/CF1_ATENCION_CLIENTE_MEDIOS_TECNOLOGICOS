@@ -48,17 +48,17 @@
         figure
           img(src='@/assets/curso/temas/tema7/2.svg', alt='')
       div(x="12%" y="51%" tooltip="1. Según el modo de atención" numero="1")
-        h4 1. Según el modo de atención
+        h3 1. Según el modo de atención
         p.mt-3 Hay dos modos de brindar atención a tus clientes dependiendo del modo: presencial o virtual.
         p.mt-4 #[strong Servicio al cliente presencial:] existe un contacto directo y en persona entre el cliente y un personal de la empresa. Esto permite no estar mediado por intermediarios y un menos tiempo en la solución o dudas. Por ejemplo, la asistencia de un técnico de un servicio de internet en el domicilio del cliente para reparar problemas con el modem de conexión.
         p.mt-4 #[strong Servicio al cliente virtual: ] hoy en día es común que las empresas utilicen servicios de atención al cliente de manera virtual, debido al aumento del manejo de plataformas digitales. Entre los recursos que se utilizan para la asistencia virtual, encontramos el uso de correo electrónico, chats, plataformas de servicio y redes sociales. Esto permite evitar largas filas y tiempos de turno, permitiendo la comunicación desde cualquier lugar y en cualquier momento.
       div(x="37%" y="51%" tooltip="2. En función de la actitud" numero="2")
-        h4.mt-5 2. En función de la actitud
+        h3.mt-5 2. En función de la actitud
         p.mt-3 Esta característica se enfoca en la actitud de los clientes o de la empresa.
         p.mt-4 #[strong Servicio al cliente proactivo:] se da cuando la empresa contacta o busca de manera directa a los clientes, ya sea en cualquier parte del proceso de comercialización de un producto o servicio. Se utiliza para evaluar la satisfacción con la compra, para ofrecer promociones y beneficios, para verificar el seguimiento de un envío, entre otros. Esto permite a la empresa reparar ciertas fallas o mejorar la calidad del servicio, por otra parte, esto genera una fuerte imagen de compromiso y dedicación a los clientes. 
         p.mt-4 #[strong Servicio al cliente reactivo:] aquí, es el cliente el que contacta a la empresa. Principalmente sucede frente a consultas pre y post venta sobre productos, devoluciones o cambios, reparaciones, entre otros. Es por esta razón, que las empresas deben brindar un servicio reactivo posible, que le permita mejorar su reputación y recomendación de la empresa, y de la misma forma una fidelización de los clientes.
       div(x="78%" y="51%" tooltip="3. En relación al canal de comunicación" numero="3")
-        h4.mt-5 3. En relación al canal de comunicación
+        h3.mt-5 3. En relación al canal de comunicación
         p.mt-3 Aquí podemos ver una clasificación de los canales de comunicación más utilizados por las empresas para la atención al cliente y que han venido aumentando con los años por medio de tecnologías específicas en cada área, estos son: 
         p.mt-4 #[strong Servicio al cliente por móvil o teléfono:] es un servicio de información y comunicación entre la empresa y cliente por medio de dispositivo móvil o teléfono. Es común que la llamada derive en un asistente telefónico que automatice las posibles razones por las que los clientes se comunican y brinde información o soporte de manera virtual. Sin embargo, el cliente puede requerir el contacto con algún operador de la empresa para una atención personalizada.
 
@@ -102,7 +102,7 @@ export default {
 </script>
 <style lang="sass">
 .img-infografica-b__modal
-  background-color: rgba(246,246,246,.9)
+  background-color: rgba(246,246,246,1)
 .img-infografica-b__modal__contenido div > *
   color: #12263F !important
 .img-infografica-b__modal__btn-cerrar i

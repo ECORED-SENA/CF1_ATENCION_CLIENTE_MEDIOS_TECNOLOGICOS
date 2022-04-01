@@ -16,28 +16,28 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5.p-xl-5(style="background-color:#A4A3FF;place-self:center;")
-              h5 Funciones básicas
+              h3 Funciones básicas
               p Se deben incluir brevemente cada una de las funciones y responsabilidades básicas que describa adecuadamente los límites y esencia del cargo. Se debe tener en cuenta que en la descripción de las funciones básicas no se debe entrar en detalles, ya que esto se incluye en el manual de procedimientos establecido para la empresa. 
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/1.png')})`}")
-              h5.p-4(style="background-color:#A4A3FF;bottom: -12px;position: absolute;width: 100%;") Funciones básicas
+              h3.p-4(style="background-color:#A4A3FF;bottom: -17px;position: absolute;width: 100%;") Funciones básicas
       .col-sm-6.col-xl-4.col-md-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style="background-color:#A4A3FF;display: flex;align-items: center;")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5.p-xl-5
-              h5 Identificación del cargo
+              h3 Identificación del cargo
               p Aquí se describe el nombre del cargo, la dependencia a la que pertenece, el número de cargos y el cargo de su jefe inmediato. 
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/2.png')})`}")
-              h5.p-4(style="background-color:#A4A3FF;bottom: -12px;position: absolute;width: 100%;") Identificación del cargo
+              h3.p-4(style="background-color:#A4A3FF;bottom: -17px;position: absolute;width: 100%;") Identificación del cargo
       .col-sm-6.col-xl-4.col-md-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style="background-color:#A4A3FF;display: flex;align-items: center;")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5.p-xl-5
-              h5 Requisitos
+              h3 Requisitos
               p Se describen cuáles serían los requisitos del perfil para cada uno de los cargos. Se debe aclarar con respecto a la descripción del perfil de cargo que este se requiere para poder realizar una adecuada selección de personal ( estudios, experiencia, conocimientos, etc.)
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/3.png')})`}")
-              h5.p-4(style="background-color:#A4A3FF;bottom: -12px;position: absolute;width: 100%;") Requisitos
+              h3.p-4(style="background-color:#A4A3FF;bottom: -17px;position: absolute;width: 100%;") Requisitos
 
     br
     p.mt-5(data-aos="fade-up") Un manual de funciones deberá contener:
@@ -45,7 +45,7 @@
     figure.mt-5.col-md-10.m-auto
       img(src="@/assets/curso/temas/tema4/5.png" data-aos="zoom-in")
 
-    h3.mt-5(data-aos="fade-up") Manual de procedimiento
+    h2.mt-5(data-aos="fade-up") Manual de procedimiento
 
     .row.mt-4
       .col-md-6.mb-2
@@ -91,12 +91,12 @@
         span.text-bold k. 
         | Son guías de trabajo a ejecutar.
 
-    h3.mt-5(data-aos="fade-up") Conformación del manual de procedimientos
+    h2.mt-5(data-aos="fade-up") Conformación del manual de procedimientos
     p(data-aos="fade-up") A continuación, se mencionan algunos datos que debe tener presente al momento de realizar un manual de procedimientos.
 
     TabsA.color-acento-botones.mt-5
       .tarjeta.color-acento-botones--borde.p-4(titulo="Identificación")
-        h4 Identificación
+        h3 Identificación
         p.mt-3 Debe incorporar la siguiente información:
         ol.lista-ol.mt-4
           li #[strong a. ]  &nbsp;Logotipo de la empresa u organización

@@ -43,7 +43,7 @@
           span 5
         | Permiten a cada usuario crear un perfil dentro de la red para poder interactuar con los demás.
 
-    h3.mt-5(data-aos="fade-up") Ventajas de las redes sociales
+    h2.mt-5(data-aos="fade-up") Ventajas de las redes sociales
     p(data-aos="fade-up") Las redes sociales nos brindan una serie de ventajas o beneficios, y esto les ha permitido ser protagonistas dentro de la web. Entre estas ventajas encontramos:
 
     .tarjeta.tarjeta--azul.p-4.mb-5.mt-5(style="background-color:#FFDE96")
@@ -53,7 +53,7 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/2.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Son inmediatas
+            h3 Son inmediatas
             p Estas funcionan en tiempo real. La información, los vídeos, las imágenes y las opiniones que se comparten en las redes suelen hacerse públicas y estar al alcance de cualquier persona en el mundo.
           .col-md-1
         .row
@@ -61,7 +61,7 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/8.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Son masivas
+            h3 Son masivas
             p Las redes sociales involucran a una gran porción de la población y ha logrado eliminar las barreras culturales y etarias.
           .col-md-1
         .row
@@ -69,7 +69,7 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/7.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Acortan distancias
+            h3 Acortan distancias
             p Permiten la comunicación con amigos, familiares y cualquier usuario de la red sin importar la distancia geográfica.
           .col-md-1
         .row
@@ -77,7 +77,7 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/6.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Aumentan la visibilidad de las marcas
+            h3 Aumentan la visibilidad de las marcas
             p La publicidad y la creación de perfiles corporativos han hecho de las redes sociales un nuevo mercado. Permiten conectar compradores y vendedores de cualquier parte del mundo.
           .col-md-1
         .row
@@ -85,7 +85,7 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/5.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Funcionan como un canal
+            h3 Funcionan como un canal
             p Funcionan como medios de aprendizaje, entretenimiento e información, este dependerá del contenido en el que esté interesado el usuario. 
           .col-md-1
         .row
@@ -93,7 +93,7 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/4.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Comparten información
+            h3 Comparten información
             p Permiten compartir archivos de manera instantánea y sencilla: documentos, música, fotografías, videos.
           .col-md-1
         .row
@@ -101,11 +101,11 @@
           .col-md-2.text-center
             img(src="@/assets/curso/temas/tema2/3.png" style="max-width:100px;display:inline")
           .col-md-8
-            h5 Brindan oportunidades laborales
+            h3 Brindan oportunidades laborales
             p Hay empresas que utilizan las redes sociales para dar a conocer su oferta y a su vez estas permiten conocer el perfil laboral de los usuarios. Entre estas redes está LinkedIn, se crearon con el objetivo específico de formar comunidades de profesionales. 
           .col-md-1
 
-    h3.mt-5(data-aos="fade-up") Tipos de redes sociales
+    h2.mt-5(data-aos="fade-up") Tipos de redes sociales
     p(data-aos="fade-up") Las redes sociales por lo general se dividen en diferentes tipos, algunas de ellas pueden pertenecer más de un tipo. Entre sus clasificaciones más comunes encontramos:
     
     .strips.mt-5.indicador__container
@@ -113,25 +113,25 @@
         .content
           div.indicador--click(v-if="mostrarIndicador")
           img(src="@/assets/curso/temas/tema2/13.png" style="max-width:100px;")
-          h5.mt-5 Red social de relaciones
+          h3.mt-5 Red social de relaciones
           p Aquí encontramos la red social Facebook, donde su objetivo es el de conectar personas. Entre otras redes de este tipo encontramos: Instagram, LinkedIn, Twitter, etc.
       .strip.cortain2(style="background-color:#FFDE96;")
         .content
           img(src="@/assets/curso/temas/tema2/14.png" style="max-width:100px;" @mouseover="mostrarIndicador = false")
-          h5.mt-5 Red social de entretenimiento
+          h3.mt-5 Red social de entretenimiento
           p Son aquellas en las que el objetivo principal no es relacionarse con las personas, sino consumir contenido. Aquí encontramos a YouTube, su función gira en la distribución de vídeos, con el objetivo de publicar y ver vídeos. Otra app de este tipo es Pinterest, en el que las personas publican y consumen imágenes.
       .strip.cortain3(style="background-color:#A4A3FF;")
         .content
           img(src="@/assets/curso/temas/tema2/15.png" style="max-width:100px;" @mouseover="mostrarIndicador = false")
-          h5.mt-5 Red social profesional
+          h3.mt-5 Red social profesional
           p Aquí los usuarios tienen como objetivo crear relaciones profesionales con otros usuarios, presentar su currículum y habilidades, además de conseguir empleos, etc. La app más conocida es LinkedIn. Por otra parte, hay redes que no son exclusivamente profesionales pero que también se han utilizado para este fin, como Facebook, Instagram, YouTube, Twitter y Pinterest.
       .strip.cortain4(style="background-color:#FFDE96;")
         .content
           img(src="@/assets/curso/temas/tema2/16.png" style="max-width:100px;" @mouseover="mostrarIndicador = false")
-          h5.mt-5 Red social de nicho
+          h3.mt-5 Red social de nicho
           p Son aquellas dirigidas a un público específico, ya sea una categoría profesional o personas que tienen un interés específico en común. Aquí encontramos app de lecturas, comunidades de artistas, gastronomía, etc.
 
-    h3.mt-5(data-aos="fade-up") Contribuciones de las redes sociales como canal de atención al cliente
+    h2.mt-5(data-aos="fade-up") Contribuciones de las redes sociales como canal de atención al cliente
     p(data-aos="fade-up") Actualmente, las redes sociales se han convertido en el espacio principal en el que los usuarios son clientes de diferentes productos, marcas o servicios. Son estos espacios los que permiten a las empresas dar a conocer su oferta de servicios y de productos, establecer su imagen de marca y los canales de comunicación con sus clientes, socializar el proceso de compra y apoyar sus ventas.
     
     p.mt-4(data-aos="fade-up") Estudiemos cuáles son las contribuciones de las redes sociales como canal de atención al cliente.

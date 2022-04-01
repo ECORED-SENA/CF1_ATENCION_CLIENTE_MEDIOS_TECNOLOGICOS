@@ -37,41 +37,41 @@
           span 5
         | Normas o convenciones que definen la relación de las personas o trabajadores y su rol en la organización.
 
-    h3.mt-5(data-aos="fade-up") Tipos de organizaciones
+    h2.mt-5(data-aos="fade-up") Tipos de organizaciones
     p(data-aos="fade-up") Las organizaciones se pueden clasificar de diversas formas. A continuación, vemos algunas de las más relevantes:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4 col-md-4")
-      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:650px;")
+      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:680px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/2.png' alt='')
-        h5.mt-5 Según la estructura
+        h3.mt-5 Según la estructura
         p Las organizaciones pueden clasificarse en formales e informales.
         p.mt-4 #[strong Formales:] son planificadas y cuentan con una estructura jerárquica definida junto con normas de funcionamiento.
         p.mt-2 #[strong Informales:] nacen de manera espontánea por la afinidad de las personas y el descubrimiento de intereses comunes.
-      .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:650px;")
+      .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:680px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/3.png' alt='')
-        h5.mt-5 Según su localización
+        h3.mt-5 Según su localización
         p Pueden ser locales, nacionales e internacionales. Así, por ejemplo, un club deportivo puede ser local, y de tipo internacional tenemos la Organización de las Naciones Unidas.
-      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:650px;")
+      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:680px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/4.png' alt='')
-        h5.mt-5 Según su tamaño
+        h3.mt-5 Según su tamaño
         p Pueden ser pequeñas, medianas o grandes. Para definir el tamaño relativo se pueden utilizar diversos criterios. Por ejemplo, en el caso de las empresas, se tienen en cuenta el número de trabajadores y el ingreso (o patrimonio en su defecto).
-      .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:650px;")
+      .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:680px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/5.png' alt='')
-        h5.mt-5 Según su propiedad
+        h3.mt-5 Según su propiedad
         p Pueden ser de propiedad pública (del Estado o gobierno) o privada (de personas comunes o jurídicas). Por ejemplo, los municipios son parte del gobierno, mientras que una empresa textil puede ser de propiedad de privados.
-      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:650px;")
+      .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:680px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/6.png' alt='')
-        h5.mt-5 Según su fin
+        h3.mt-5 Según su fin
         p Pueden ser con o sin fines de lucro. Por ejemplo, los bancos tienen ánimo de lucro, mientras que las organizaciones de ayuda humanitaria no (fundaciones, etc.).
     p.mt-5(data-aos="fade-up") Las organizaciones pueden variar y dependen de los intereses de las personas que las componen; entre las más comunes conocemos las siguientes: Sindicatos, Partidos políticos, Empresas, Organizaciones de ayuda humanitaria, Clubes deportivos, entre otras.
 

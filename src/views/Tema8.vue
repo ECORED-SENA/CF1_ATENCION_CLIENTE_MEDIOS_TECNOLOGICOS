@@ -9,7 +9,7 @@
 
     p(data-aos="fade-up") La comunicación es el intercambio de información que se produce entre dos o más individuos con el objetivo de aportar información y recibirla. En este proceso intervienen un emisor y un receptor, además del mensaje que se pone de manifiesto.
 
-    h3.mt-5(data-aos="fade-up") Funciones de la comunicación
+    h2.mt-5(data-aos="fade-up") Funciones de la comunicación
     p(data-aos="fade-up") A continuación, se mencionan algunos datos que debe tener presente al momento de realizar un manual de procedimientos.
 
     ImagenInfografica.color-secundario.mt-5.col-md-7.m-auto.cont_infografia_tema8
@@ -35,7 +35,7 @@
         .h5.mb-2 Función Poética
         p Se centra en la parte estética del mensaje. Suele utilizarse en el aspecto literario y en también en el ámbito de la publicidad.
 
-    h3.mt-5(data-aos="fade-up") Elementos en el proceso de comunicación
+    h2.mt-5(data-aos="fade-up") Elementos en el proceso de comunicación
     p(data-aos="fade-up") Para que exista una comunicación eficaz, se deben tener en cuenta ciertos elementos para el proceso de la comunicación. Estos son los principales:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4 col-md-4")
@@ -43,34 +43,34 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/2.png' alt='')
-        h5.mt-5 Emisor
+        h3.mt-5 Emisor
         p El emisor es aquel que emite un mensaje cuyo objetivo es transmitir o informar sobre un tema en concreto.
       .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:550px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/3.png' alt='')
-        h5.mt-5 Receptor
+        h3.mt-5 Receptor
         p Es el individuo encargado de recibir esa comunicación y datos que emite el emisor.
       .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:550px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/4.png' alt='')
-        h5.mt-5 Mensaje
+        h3.mt-5 Mensaje
         p Es la información, los datos que transmite el emisor para que lleguen al receptor de forma óptima. El contenido para la comunicación debe ser fluido y eficaz.
       .tarjeta.color-acento-botones.p-5(style="background-color:#A3A5F9;border-radius:0px;min-height:550px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/5.png' alt='')
-        h5.mt-5 Canal
+        h3.mt-5 Canal
         p Es el lugar por donde se transmite el mensaje. Existen múltiples canales por donde se puede transmitir la información. Por ejemplo, internet, medios de comunicación o dispositivos móviles.
       .tarjeta.color-acento-botones.p-5(style="background-color:#FADE9F;border-radius:0px;min-height:550px;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema8/6.png' alt='')
-        h5.mt-5 Código
+        h3.mt-5 Código
         p Se trata de un elemento importante para que se comprenda fácilmente el mensaje y haya entendimiento entre emisor y receptor. El código lo conforman datos y reglas que comparten ambos para comprender la información.
 
-    h3.mt-5(data-aos="fade-up") Características de la comunicación
+    h2.mt-5(data-aos="fade-up") Características de la comunicación
     p(data-aos="fade-up") Es necesaria para el buen entendimiento entre las personas. Sirve para exponer o resolver dudas e informarse sobre hechos relevantes que están sucediendo. #[br] Los roles se intercambian continuamente. Por ejemplo, en una conversación el emisor y el receptor pueden intercambiar sus papeles en cualquier momento. #[br] Mejora la organización social. Las personas que forman parte de comunidades y sociedades utilizan la comunicación para establecer acuerdos, reglas y normas para vivir de forma organizada y respetuosa.
 
     .row.mt-5
@@ -113,8 +113,8 @@
         thead(style="border:none;")
           tr(style="background-color:#FCB315;")
             th.h5.p-3.text-white(style="border:none;")
-            th.h5.p-3.text-white(style="border:none;") Comunicación verbal
-            th.h5.p-3.text-white(style="border:none;") Comunicación no verbal
+            th.h3.p-3.text-white(style="border:none;") Comunicación verbal
+            th.h3.p-3.text-white(style="border:none;") Comunicación no verbal
         tbody
           tr(style="background-color:#F6F6F6;")
             th.p-4(style="border:none;border-right:1px #AFAFAF solid;") Definición
@@ -144,7 +144,7 @@
     div(style="position:relative;")
       .row.mt-5(style="")
         .col-md-6.mb-3(style="padding:0px;")
-          h5.mb-0.text-center.p-4(style="background-color:#FFDE96;" data-aos="fade-up") Comunicación oral
+          h3.mb-0.text-center.p-4(style="background-color:#FFDE96;" data-aos="fade-up") Comunicación oral
           img(src="@/assets/curso/temas/tema8/14.png" data-aos="fade-in")
           .p-5(style="background-color:#FFDE96;min-height:450px;")
             p(data-aos="fade-up") Se utilizan las palabras habladas o se emiten sonidos de forma verbal. #[br] La entonación y la vocalización juegan un papel fundamental para que el mensaje llegue efectivamente y pueda ser interpretado por el receptor.
@@ -152,7 +152,7 @@
             p.mt-4(data-aos="fade-up") Se ha desarrollado con el origen de los idiomas y las características lingüísticas propias de cada población.
             p.mt-4(data-aos="fade-up") #[strong Ejemplos:] conversación entre colegas, un grito de sorpresa o una conversación telefónica.
         .col-md-6.mb-3(style="padding:0px;")
-          h5.mb-0.text-center.p-4(style="background-color:#FCB315;" data-aos="fade-up") Comunicación escrita
+          h3.mb-0.text-center.p-4(style="background-color:#FCB315;" data-aos="fade-up") Comunicación escrita
           img(src="@/assets/curso/temas/tema8/15.png" data-aos="fade-in")
           .p-5(style="background-color:#FCB315;min-height:450px;")
             p(data-aos="fade-up") Se realiza a través de códigos escritos. 

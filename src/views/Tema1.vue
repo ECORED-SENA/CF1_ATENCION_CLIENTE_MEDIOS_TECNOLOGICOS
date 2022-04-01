@@ -17,7 +17,7 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               .text-center
                 img(src="@/assets/curso/temas/tema1/2.png" style="display:inline;max-width:100px;")
-              h5.mt-5 Audiovisuales
+              h3.mt-5 Audiovisuales
               p Hacen referencia a proyecciones de imágenes, CDs, programas en video, televisión, etc.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.png')})`}")
       .col-sm-6.col-md-4.col-xl-4.mb-4.mb-xl-0
@@ -26,7 +26,7 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               .text-center
                 img(src="@/assets/curso/temas/tema1/4.png" style="display:inline;max-width:100px;")
-              h5.mt-5 Tecnológicos
+              h3.mt-5 Tecnológicos
               p Son los referentes a la computadora y sus programas, programas multimedia y los juegos educativos.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/3.png')})`}")
       .col-sm-6.col-md-4.col-xl-4.mb-4.mb-xl-0
@@ -35,13 +35,13 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               .text-center
                 img(src="@/assets/curso/temas/tema1/6.png" style="display:inline;max-width:100px;")
-              h5.mt-5 Las TIC
+              h3.mt-5 Las TIC
               p Son las Tecnologías de la Información y Comunicación que utilizan internet, la WWW (World Wide Web), los chats, correos, páginas sociales, blogs, etc.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/5.png')})`}")
 
     p.mt-3(data-aos="fade-up") En cuanto a los sistemas tradicionales de atención al cliente, existen muchos medios de comunicación, entre los cuales encontramos aquellos que aún prefieren algunos consumidores: el de ser atendidos por teléfono o personalmente. Sin embargo, existen una gran variedad y estos dependen de la necesidad de la empresa, entre ellos tenemos: el computador, correo electrónico, call center y comunicación de datos.
 
-    h3.mt-5(data-aos="fade-up") #[strong Características de un sistema de atención al cliente eficaz]
+    h2.mt-5(data-aos="fade-up") #[strong Características de un sistema de atención al cliente eficaz]
     p(data-aos="fade-up") Un buen servicio al cliente puede llegar a ser un elemento promocional para las ventas tan poderoso como los descuentos, la publicidad o la venta personal. Entre las características esenciales para una atención al cliente eficaz, tenemos:
 
     .row.mt-5
@@ -67,7 +67,7 @@
 
     p.mt-5(data-aos="fade-up") Después de ver algunas características de un sistema de atención al cliente tecnológico, ahora pasamos a mencionar los canales más habituales utilizados por las empresas o marcas.
 
-    h3.mt-5(data-aos="fade-up") Canales de atención al cliente utilizados por las marcas
+    h2.mt-5(data-aos="fade-up") Canales de atención al cliente utilizados por las marcas
     p(data-aos="fade-up") Hoy en día, la mayoría de las empresas o compañías se encuentran actualizando los canales de comunicación y atención al cliente y no quieren quedarse atrás en esta revolución de las tecnologías y uso masivo de los medios digitales después de la pandemia. Es evidente que las costumbres de compra y atención al cliente están cambiando, y se hace necesario evolucionar y poner en práctica todas las herramientas o canales de atención posibles para facilitar la comunicación con el cliente. Algunos de los canales de atención más utilizados en estos momentos son:
 
     SlyderB.mt-5(:datos="datosSlyder")

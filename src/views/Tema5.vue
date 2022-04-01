@@ -34,31 +34,31 @@
         figure
           img(src='@/assets/curso/temas/tema5/3.svg', alt='')
       .tarjeta.color-acento-botones.p-3(x="48%" y="17%" numero="1" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Presentación
+        .h4.mb-2 Presentación
         p Se ofrece una primera información más bien genérica sobre la empresa. Año de fundación, nombre, etc.
       .tarjeta.color-acento-botones.p-3(x="72%" y="27%" numero="2" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Objetivos
+        .h4.mb-2 Objetivos
         p Se incluyen las metas a corto, medio y largo plazo que persigue la empresa, así como sus procedimientos para obtenerlas.
       .tarjeta.color-acento-botones.p-3(x="85%" y="51%" numero="3" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Misión y valores
+        .h4.mb-2 Misión y valores
         p Es el motor, el justificante de las acciones de la empresa.
       .tarjeta.color-acento-botones.p-3(x="80%" y="75%" numero="4" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Certificaciones
+        .h4.mb-2 Certificaciones
         p Se explica qué certificaciones de excelencia y reconocimientos ha recibido la compañía debido a su trayectoria. Sociedades: se añaden las relaciones con otras organizaciones o individuos.
       .tarjeta.color-acento-botones.p-3(x="61%" y="92%" numero="5" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Clientes
+        .h4.mb-2 Clientes
         p Se muestra la cartera de clientes de mayor o menor importancia y sus testimonios sobre el proceder de la compañía.
       .tarjeta.color-acento-botones.p-3(x="35%" y="92%" numero="6" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Proveedores
+        .h4.mb-2 Proveedores
         p Aquí se añade información sobre la calidad de los proveedores que suministran bienes y servicios a la empresa.
       .tarjeta.color-acento-botones.p-3(x="15%" y="75%" numero="7" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Servicios
+        .h4.mb-2 Servicios
         p Se explican los servicios ofrecidos, tanto los vigentes como los que están en desarrollo y pasarán a estar activos en breve.
       .tarjeta.color-acento-botones.p-3(x="10%" y="49%" numero="8" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Proyectos
+        .h4.mb-2 Proyectos
         p Llega el momento de añadir los proyectos en los que participa activamente la empresa.
       .tarjeta.color-acento-botones.p-3(x="23%" y="26%" numero="9" style="background-color:#F6F6F6;border-radius:0px;")
-        .h5.mb-2 Contacto
+        .h4.mb-2 Contacto
         p Se facilita información de contacto para que el cliente potencial pueda comunicarse con la compañía. Se añaden direcciones de email, teléfonos, webs, direcciones físicas, redes sociales…
 
     p.mt-5(data-aos="fade-up") A continuación, conozcamos un ejemplo sencillo de un portafolio de servicios: 
@@ -67,7 +67,7 @@
 
     .tabla-b.color-acento-contenido.mt-4
       .tabla-b__header
-        h5.mb-0.text-white Portafolios de servicios de un restaurante
+        h3.mb-0.text-white Portafolios de servicios de un restaurante
       table
         tr(style="background-color:#F6F6F6;")
           th Nombre

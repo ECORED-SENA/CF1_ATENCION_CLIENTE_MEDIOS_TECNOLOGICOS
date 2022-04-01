@@ -22,23 +22,23 @@
       .mt-4.col-md-4.col-sm-8.m-auto.justify-content-center
         #cont_path1_imageninfografica(style="display:none;")
           div(style="background-color:#FFDE96;width:30%;height:7px;")
-          h5.mt-4 Mercado de consumo
+          h3.mt-4 Mercado de consumo
           p Los clientes son personas o familias que solicitan los bienes y servicios de una empresa y luego los utilizan para su consumo personal. Por ejemplo, una familia que compra en un supermercado comestibles o productos de limpieza que luego serán utilizados en el hogar.
         #cont_path2_imageninfografica(style="display:none;")
           div(style="background-color:#FFDE96;width:30%;height:7px;")
-          h5.mt-4 Mercados industriales
+          h3.mt-4 Mercados industriales
           p Aquí, los clientes son todas las empresas que demandan los productos que produce otra empresa (proveedores), con el propósito de usarlos en su proceso de producción. Estos productos pueden ser transformados para elaborar un nuevo producto o hacer uso de ellos para transformar otros productos, los cuales serán puestos en el mercado (por ejemplo: una panadería que compra harina a otras empresas).
         #cont_path3_imageninfografica
           div(style="background-color:#FFDE96;width:30%;height:7px;")
-          h5.mt-4 Mercados de revendedores
+          h3.mt-4 Mercados de revendedores
           p Son todas las empresas que compran los bienes y servicios de una empresa, y luego los ponen en venta para el uso de los consumidores finales (por ejemplo: los supermercados).
         #cont_path4_imageninfografica(style="display:none;")
           div(style="background-color:#FFDE96;width:30%;height:7px;")
-          h5.mt-4 Mercado de gobierno
+          h3.mt-4 Mercado de gobierno
           p Asimismo, el gobierno o sus dependencias muchas veces actúan como clientes en este mercado, puesto que compran los bienes y servicios de otras empresas para poder ofrecer servicios públicos. (por ejemplo: cuando el gobierno compra insumos para un hospital o compra de libros para bibliotecas públicas). 
         #cont_path5_imageninfografica(style="display:none;")
           div(style="background-color:#FFDE96;width:30%;height:7px;")
-          h5.mt-4 Mercados internacionales
+          h3.mt-4 Mercados internacionales
           p Aquí, se puede incluir como clientes a los consumidores, a los productores, a los revendedores y a los gobiernos de otro país distinto al nuestro, que soliciten y compren los productos que ofrece la empresa internacional.
 
     
@@ -67,14 +67,14 @@
         figure
           img(src='@/assets/curso/temas/tema6/5.svg', alt='')
       div(x="82%" y="10%" tooltip="Por su nivel de satisfacción" numero="1")
-        h4 Por su nivel de satisfacción 
+        h3 Por su nivel de satisfacción 
         p.mt-5 #[strong Cliente muy satisfecho:] estos clientes consideran que el producto y el servicio que recibe sobrepasa sus expectativas. Aquí, se establece una relación entre la empresa y el cliente donde puede generar un proceso de recompra ante una satisfacción que le genera al cliente comodidad. Además, estos clientes hacen publicidad gratuita de la empresa ya que transmite su satisfacción a otros clientes potenciales.
 
         p.mt-4 #[strong Cliente satisfecho:] aquí el cliente está contento con la propuesta que recibe, pero se podría cambiar si la competencia le ofrece algo que supere el valor que está recibiendo actualmente. Existen clientes que quieren siempre recibir más.
 
         p.mt-4 #[strong Cliente insatisfecho:] aquí el cliente percibe que el ofrecimiento entregado no corresponde a lo que deseaba, por lo que se considera engañado o defraudado por la empresa. Este cliente es de cuidado o peligroso, porque inmediatamente se pasan a la competencia o puede generar una mala reputación o publicidad negativa del negocio, por ello la empresa debe prestarles mucha atención. La empresa debe centrarse en escucharle y conocer cuáles son los motivos de su descontento para poder argumentar y cambiar esta opinión.
       div(x="82%" y="27%" tooltip="Por el volumen de compra" numero="2")
-        h4.mt-5 Por el volumen de compra
+        h3.mt-5 Por el volumen de compra
 
         p.mt-4 #[strong Clientes de alto volumen de compra:] estos se convierten en clientes prioritarios para la empresa, debido a su gran cantidad de compra y que logra representar un porcentaje alto en sus ventas. Se consideran clientes que están satisfechos con el producto. Son conocidos como clientes mayoristas o al por mayor. Muchas veces las empresas valoran a este tipo de cliente otorgándole descuentos o ciertas promociones. 
 
@@ -82,7 +82,7 @@
 
         p.mt-4 #[strong Clientes de bajo volumen de compra:] pueden ser clientes ocasionales o clientes que les agrada el producto y están contentos, pero su capacidad adquisitiva no les permite comprar en mayor cantidad. Son los clientes retail, minoristas o al por menor.
       div(x="82%" y="44%" tooltip="Por su influencia" numero="3")
-        h4.mt-5 Por su influencia
+        h3.mt-5 Por su influencia
 
         p.mt-4 #[strong Clientes muy influyentes:] son personas que tienen un nivel de influencia muy alto para generar una opinión positiva o negativa sobre un número muy grande de usuarios, por lo general son líderes de opinión. Estos clientes pueden actuar como imagen comercial de la empresa, aquí es importante trabajar su satisfacción y tratar de que hablen de los productos o servicios de la empresa. Por ejemplo, algunas empresas le pagan a artistas o deportistas para que hablen bien de sus productos o para que utilicen sus productos en público. Esto con el fin de generar un impacto en los consumidores y como consecuencia en su nivel de ventas.
 
@@ -90,7 +90,7 @@
 
         p.mt-4 #[strong Clientes de influencia familiar:] son aquellos que pueden influir sobre la decisión de compra dentro de los grupos familiares, lo que va creando una lealtad y fidelidad de la marca. Por ejemplo, los cereales que les dan a los bebés porque se los recomienda la abuelita.
       div(x="82%" y="61%" tooltip="Por su frecuencia" numero="4")
-        h4.mt-5 Por su frecuencia
+        h3.mt-5 Por su frecuencia
 
         p.mt-4 #[strong Cliente de compra frecuente:] compran de forma periódica los productos y marcas, están satisfechos; las empresas intentan fidelizar a estos clientes para que su relación se mantenga por tiempos prolongados. Es aquí, donde la empresa deberá mantener un trato personalizado y especial con estos clientes.
 
@@ -98,13 +98,13 @@
 
         p.mt-4 #[strong Cliente de compra ocasional:] son los que se acercan a demandar nuestros bienes y servicios una sola vez, o de vez en cuando. Aquí es donde las empresas deben manejar cierta información y comunicación para hacer seguimiento a estos clientes y de esta forma solicitar información que pueda servir para tratar de convertirlos en clientes habituales o frecuentes.
       div(x="82%" y="77%" tooltip="Por su vigencia" numero="5")
-        h4.mt-5 Por su vigencia
+        h3.mt-5 Por su vigencia
 
         p.mt-4 #[strong Cliente activo:] son los que compran con cierta regularidad, se les debe prestar mucha atención porque son los que están formando el nivel de ventas y de ingresos. Es aquí donde la empresa debe buscar los medios para conservarlos y retenerlos.
 
         p.mt-4 #[strong Cliente inactivo:] es el que en alguna oportunidad compró algún producto y que por alguna razón ya no lo hace. Es necesario ubicarlos para conocer la causa o razón por la que abandonaron la empresa y buscar la forma de recuperarlos y volver a realizar otra compra.
       div(x="82%" y="95%" tooltip="Clientes potenciales" numero="6")
-        h4.mt-5 Clientes potenciales 
+        h3.mt-5 Clientes potenciales 
 
         p.mt-4 Son los posibles nuevos clientes que podrían tener la intención y la capacidad adquisitiva para adquirir productos o servicios de la empresa. Los clientes potenciales les permiten a las empresas desarrollarse y crecer de una forma saludable y positiva.
 
@@ -207,7 +207,7 @@ export default {
 .activo_path
   fill: #FFDE96 !important
 .img-infografica-b__modal
-  background-color: rgba(246,246,246,.9)
+  background-color: rgba(246,246,246,1)
 .img-infografica-b__modal__contenido div > *
   color: #12263F !important
 .img-infografica-b__modal__btn-cerrar i

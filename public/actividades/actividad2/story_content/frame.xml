@@ -1196,6 +1196,7 @@
       <string id="three_image_camera_left">cámara movida a la izquierda</string>
       <string id="three_image_camera_down">cámara movida hacia abajo</string>
       <string id="three_image_camera_up">cámara movida hacia arriba</string>
+      <string id="three_image_tooltip">descripción emergente</string>
       <string id="three_image_label">etiqueta</string>
       <string id="three_image_interaction">interacción de la imagen de 360 grados</string>
       <string id="three_image_marker">marcador</string>
@@ -1210,9 +1211,15 @@
       <string id="three_image_play_audio">reproducir audio</string>
       <string id="three_image_play_video">reproducir video</string>
       <string id="three_image_video">video</string>
-      <string id="three_image_view_image">ver imagen</string>
       <string id="three_image_video_volume">volumen del video</string>
       <string id="three_image_instructions">Utiliza las flechas del teclado para moverte por la imagen de 360 grados. Presiona la tecla TAB para saltar a los marcadores y puntos calientes interactivos.</string>
+      <string id="three_image_count_of_total">%count% de %total%</string>
+      <string id="acc_three_image_step_count_of_total">paso %count% de %total%</string>
+      <string id="three_image_total_items">%total% ítems</string>
+      <string id="three_image_total_item">%total% ítem</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% de %total% ítems visitados</string>
+      <string id="three_image_count_of_total_visited">%count% de %total% visitados</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% de %total% ítems visitados</string>
       <string id="three_image_item">ítem</string>
       <string id="three_image_items">ítems</string>
       <string id="three_image_of">de</string>

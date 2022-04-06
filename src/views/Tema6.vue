@@ -12,7 +12,7 @@
         img(src="@/assets/curso/temas/tema6/1.png" data-aos="fade-left")
       .col-md-6
         p(data-aos="fade-up") #[strong Un cliente es una persona o entidad que compra los bienes y servicios que ofrece una empresa, en otras palabras, se concibe como sinónimo de comprador]. El cliente puede comprar un producto y luego consumirlo, o simplemente comprarlo para que lo disfrute otra persona.
-        p.mt-4(data-aos="fade-up") Es así como el cliente se convierte en el principal foco de atención de una empresa, por lo que todos los planes y estrategias de marketing se enfocan, desarrollan e implementan en función de él.
+        p.mt-4(data-aos="fade-up") Es así como el cliente se convierte en el principal foco de atención de una empresa, por lo que todos los planes y estrategias de #[em marketing] se enfocan, desarrollan e implementan en función de él.
         p.mt-4(data-aos="fade-up") Por otra parte, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo de mercado en el que compiten, o en el que comercializan sus productos. Entre estos mercados encontramos:
 
     .mt-5.indicador__container(@mouseover="mostrarIndicador = false")
@@ -42,7 +42,7 @@
           p Aquí, se puede incluir como clientes a los consumidores, a los productores, a los revendedores y a los gobiernos de otro país distinto al nuestro, que soliciten y compren los productos que ofrece la empresa internacional.
 
     
-    p.mt-5(data-aos="fade-up") Esto ratifica la importancia de los clientes para las empresas, debido a que, desde la perspectiva del marketing; se busca lograr un intercambio de valor, entre las empresas y sus mercados. Es por esta razón, que todos los esfuerzos del marketing están orientados a lograr la satisfacción de los clientes, esto determinará que la empresa siga teniendo éxito y permanezca en el mercado.  #[strong(style="color:#7F79FB;") ¿Cuál es la relación entre el marketing y los clientes?]
+    p.mt-5(data-aos="fade-up") Esto ratifica la importancia de los clientes para las empresas, debido a que, desde la perspectiva del #[em marketing]; se busca lograr un intercambio de valor, entre las empresas y sus mercados. Es por esta razón, que todos los esfuerzos del #[em marketing] están orientados a lograr la satisfacción de los clientes, esto determinará que la empresa siga teniendo éxito y permanezca en el mercado.  #[strong(style="color:#7F79FB;") ¿Cuál es la relación entre el #[em marketing] y los clientes?]
 
     br
     br

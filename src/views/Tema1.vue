@@ -18,7 +18,7 @@
               .text-center
                 img(src="@/assets/curso/temas/tema1/2.png" style="display:inline;max-width:100px;")
               h3.mt-5 Audiovisuales
-              p Hacen referencia a proyecciones de imágenes, CDs, programas en video, televisión, etc.
+              p Hacen referencia a proyecciones de imágenes, CD, programas en video, televisión, etc.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.png')})`}")
       .col-sm-6.col-md-4.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false" style="background-color:#FFDE96;")
@@ -57,7 +57,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/8.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#FCB315;")
-              p.p-2.mt-3.mb-3 El sistema debe centralizar todas las comunicaciones de los clientes con independencia del canal utilizado para contactar con la empresa. Es importante que todas las quejas, reclamaciones o solicitudes de información, sean analizadas y respondidas con independencia del canal utilizado por el cliente para realizarlas (chat, móvil, email, etc.). Para esto, es importante que la empresa cuente con un sistema de información integral, que recopila toda la información relativa de la comunicación con los clientes. 
+              p.p-2.mt-3.mb-3 El sistema debe centralizar todas las comunicaciones de los clientes con independencia del canal utilizado para contactar con la empresa. Es importante que todas las quejas, reclamaciones o solicitudes de información, sean analizadas y respondidas con independencia del canal utilizado por el cliente para realizarlas (chat, móvil, #[em email], etc.). Para esto, es importante que la empresa cuente con un sistema de información integral, que recopila toda la información relativa de la comunicación con los clientes. 
       .col-sm-6.col-xl-4.col-md-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#FFDE96 !important;")
           .tarjeta-flip__contenedor
@@ -110,9 +110,9 @@ export default {
         imagen: require('@/assets/curso/temas/tema1/13.png'),
       },
       {
-        titulo: 'Email',
+        titulo: '<em>Email</em>',
         texto:
-          'El email es un buen aliado de la atención al cliente, este dependerá para qué se utilice. Para informar de novedades o de nuevas utilidades en un producto o servicio podrá realizarse por este medio de manera exitosa. Entre sus problemas encontramos que no es una buena herramienta para resolver un conflicto o queja, o para recibir una respuesta de compra durante determinado tiempo de contestación. Por esta razón, es importante ver el tono emocional de la consulta que genera el cliente para ver si deberá ser respondida por este canal u otro de mayor fluidez. Debido a que, si se trata de un tema comercial, el cliente no estará dispuesto a esperar cuando lo que quiere es comprar.',
+          'El <em>email</em> es un buen aliado de la atención al cliente, este dependerá para qué se utilice. Para informar de novedades o de nuevas utilidades en un producto o servicio podrá realizarse por este medio de manera exitosa. Entre sus problemas encontramos que no es una buena herramienta para resolver un conflicto o queja, o para recibir una respuesta de compra durante determinado tiempo de contestación. Por esta razón, es importante ver el tono emocional de la consulta que genera el cliente para ver si deberá ser respondida por este canal u otro de mayor fluidez. Debido a que, si se trata de un tema comercial, el cliente no estará dispuesto a esperar cuando lo que quiere es comprar.',
         imagen: require('@/assets/curso/temas/tema1/14.png'),
       },
     ],

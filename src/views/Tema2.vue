@@ -9,11 +9,11 @@
 
     .row
       .col-md-6.col-sm-6.mb-3
-        h5(data-aos="fade-right") Las redes sociales son plataformas digitales conformadas por individuos con diferentes intereses, actividades o relaciones en común y permiten la comunicación e intercambio de información entre personas.
+        p(data-aos="fade-right") Las redes sociales son plataformas digitales conformadas por individuos con diferentes intereses, actividades o relaciones en común y permiten la comunicación e intercambio de información entre personas.
       .col-md-6.col-sm-6.mb-3
         p(data-aos="fade-up") Es importante mencionar que los individuos no necesariamente se tienen que conocer antes de entrar en una red social, dejando entre visto, que al momento de interactuar o conocerse se convierte en uno de los mayores beneficios de estas comunidades virtuales. Veamos:
 
-    p.mt-4(data-aos="fade-up") Es importante conocer los objetivos de las redes sociales y su por qué: 
+    p.mt-4(data-aos="fade-up") Es importante conocer los objetivos de las redes sociales y su porqué: 
 
     figure.mt-5
       .video
@@ -150,19 +150,19 @@ export default {
       {
         titulo: 'Visitas al sitio web o comercio electrónico',
         texto:
-          'Es el principal objetivo de marketing en redes sociales. Generar contenido, aumentar el número de seguidores, aumentar el nivel de compromisos de los consumidores con la marca, etc. Esto permite enlaces hacia la tienda online que más tarde deberán traducirse en ventas, esto dependerá de la captación y conversión.',
+          'Es el principal objetivo de <em>marketing</em> en redes sociales. Generar contenido, aumentar el número de seguidores, aumentar el nivel de compromisos de los consumidores con la marca, etc. Esto permite enlaces hacia la tienda <em>online</em> que más tarde deberán traducirse en ventas, esto dependerá de la captación y conversión.',
         imagen: require('@/assets/curso/temas/tema2/18.png'),
       },
       {
         titulo: 'Establece imagen de marca',
         texto:
-          'Es una de las funciones principales que aportan las redes sociales para las empresas, estas deberán gestionarse adecuadamente o puede convertirse en un problema de imagen y reputación (una página de Facebook desactualizada no da muy buena imagen…). Por esta razón, es importante saber cuál red social es la conveniente para la empresa y esta dependerá de la manera cómo actúan los clientes.',
+          'Es una de las funciones principales que aportan las redes sociales para las empresas, estas deberán gestionarse adecuadamente o puede convertirse en un problema de imagen y reputación (una página de Facebook desactualizada no da muy buena imagen…). Por esta razón, es importante saber cuál red social es la conveniente para la empresa y esta dependerá de la manera como actúan los clientes.',
         imagen: require('@/assets/curso/temas/tema2/17.png'),
       },
       {
         titulo: 'Establece un canal de comunicación con los clientes',
         texto:
-          'Es importante establecer de una manera clara cómo se va a comunicar la empresa con sus clientes y seguidores. La empresa debe trabajar en el contenido que publica, de esta forma logrará mantener actualizado el contenido y podrá interactuar con sus clientes, logrando así, una relación más estrecha y de fidelidad con la marca o producto. Esto se puede lograr mediante una campaña de marketing de contenidos, pero si se deja desactualizada, apenas se genera contenido, no se responden a las peticiones o preguntas de los usuarios, o se contesta mal, pasará todo lo contrario, y puede generar una crisis de reputación.',
+          'Es importante establecer de una manera clara cómo se va a comunicar la empresa con sus clientes y seguidores. La empresa debe trabajar en el contenido que publica, de esta forma logrará mantener actualizado el contenido y podrá interactuar con sus clientes, logrando así, una relación más estrecha y de fidelidad con la marca o producto. Esto se puede lograr mediante una campaña de <em>marketing</em> de contenidos, pero si se deja desactualizada, apenas se genera contenido, no se responden a las peticiones o preguntas de los usuarios, o se contesta mal, pasará todo lo contrario, y puede generar una crisis de reputación.',
         imagen: require('@/assets/curso/temas/tema2/19.png'),
       },
       {
@@ -172,9 +172,9 @@ export default {
         imagen: require('@/assets/curso/temas/tema2/20.png'),
       },
       {
-        titulo: 'Apoya al resto de canales en la venta online',
+        titulo: 'Apoya al resto de canales en la venta <em>online</em>',
         texto:
-          'Las redes sociales proporcionan apoyo al resto de canales de venta como comercio electrónico, marketing por email, etc. Y se vuelven indispensables a la hora de establecer la estrategia global de marketing de la empresa.',
+          'Las redes sociales proporcionan apoyo al resto de canales de venta como comercio electrónico, <em>marketing</em> por <em>email</em>, etc. Y se vuelven indispensables a la hora de establecer la estrategia global de <em>marketing</em> de la empresa.',
         imagen: require('@/assets/curso/temas/tema2/21.png'),
       },
     ],

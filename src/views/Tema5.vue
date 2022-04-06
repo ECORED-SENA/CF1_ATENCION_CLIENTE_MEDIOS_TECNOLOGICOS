@@ -9,8 +9,8 @@
 
     .row
       .col-md-5.mb-2
-        h5(data-aos="fade-left") Es un documento o una presentación donde una empresa detalla las características de su oferta comercial.
-        h5(data-aos="fade-left") Está  dirigido a potenciales clientes, posibles socios comerciales, proveedores, etc.
+        p(data-aos="fade-left") Es un documento o una presentación donde una empresa detalla las características de su oferta comercial.
+        p(data-aos="fade-left") Está  dirigido a potenciales clientes, posibles socios comerciales, proveedores, etc.
       .col-md-7
         p(data-aos="fade-right") El objetivo del portafolio de servicios, es presentar la oferta de una firma y difundir información precisa respecto a la misma, constituyéndose como una herramienta comercial y de marketing muy valiosa para aumentar las ventas.
         p.mt-3(data-aos="fade-up") En cuanto a los tipos de portafolios, encontramos los siguientes:
@@ -80,7 +80,7 @@
           td Variedad en el menú #[br] Recetas internacionales, toque especial, chef Carlos…
         tr(style="background-color:#fff;")
           th Horarios
-          td Abierto en horario de comidas y cenas de martes a domingo, por ejemplo. #[br] horario de atención: 10:00 am a 3:00 pm los días Martes a Domingo
+          td Abierto en horario de comidas y cenas de martes a domingo, por ejemplo. #[br] horario de atención: 10:00 am a 3:00 pm los días martes a domingo
         tr(style="background-color:#F6F6F6;")
           th Valores
           td Características del establecimiento: dar de comer al cliente en un entorno cálido donde tenga todas las comodidades.
@@ -89,7 +89,7 @@
           td Certificaciones de sanidad, premios culinarios obtenidos, etc.
         tr(style="background-color:#F6F6F6;")
           th Contacto
-          td Fórmulas de contacto para comensales a través de redes sociales, email y teléfono.
+          td Fórmulas de contacto para comensales a través de redes sociales, #[em email] y teléfono.
 
     p.mt-5(data-aos="fade-up") A continuación, daremos algunos consejos para crear un buen portafolio de servicios: 
 
@@ -102,7 +102,7 @@
           | Reseñar las características de la empresa.
         li(data-aos="fade-up")
           i.fas.fa-atom(style="color:#7F79FB;")
-          | Concebir los servicios que deseamos ofrecer como empresa o Resaltar los principales servicios que presta.
+          | Concebir los servicios que deseamos ofrecer como empresa o resaltar los principales servicios que presta.
         li(data-aos="fade-up")
           i.fas.fa-atom(style="color:#7F79FB;")
           | Experiencia que tiene en ese campo.

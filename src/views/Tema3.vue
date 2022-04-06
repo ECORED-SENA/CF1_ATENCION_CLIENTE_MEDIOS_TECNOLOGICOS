@@ -9,7 +9,7 @@
 
     .row
       .col-md-6.mb-2
-        h5(data-aos="fade-left") Una organización es una asociación de personas que se relacionan entre sí y utilizan recursos de diversa índole con el fin de lograr determinados objetivos o metas.
+        p(data-aos="fade-left") Una organización es una asociación de personas que se relacionan entre sí y utilizan recursos de diversa índole con el fin de lograr determinados objetivos o metas.
         p.mt-5(data-aos="fade-up") En otras palabras, es una estructura ordenada donde coexisten e interactúan personas con diversos roles, responsabilidades o cargos que buscan alcanzar un objetivo particular. Es preciso mencionar, que esta cuenta con normas (formales o informales) que especifican la posición de cada persona en la estructura y las funciones que debería realizar.
         p.mt-4(data-aos="fade-up") Algunos componentes básicos o esenciales de una organización, son:
       .col-md-6

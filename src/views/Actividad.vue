@@ -29,7 +29,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Relación de conceptos de selección de personal
-        p.mb-4 El objetivo de esta actividad es ayudarle a repasar los conocimientos adquiridos en este componente formativo. Mediante la identificación y relación de algunos conceptos sobre las herramientas tecnológicas adecuadas para la atención al cliente de acuerdo con los estándares y políticas organizacionales. 
+        p.mb-4 El objetivo de esta actividad es ayudarle a repasar los conocimientos adquiridos en este componente formativo, mediante la identificación y relación de algunos conceptos sobre las herramientas tecnológicas adecuadas para la atención al cliente de acuerdo con los estándares y políticas organizacionales. 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

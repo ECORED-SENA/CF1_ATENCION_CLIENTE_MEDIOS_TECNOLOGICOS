@@ -35,7 +35,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5.p-xl-5
               h3 Requisitos
-              p Se describen cuáles serían los requisitos del perfil para cada uno de los cargos. Se debe aclarar con respecto a la descripción del perfil de cargo que este se requiere para poder realizar una adecuada selección de personal ( estudios, experiencia, conocimientos, etc.)
+              p Se describen cuáles serían los requisitos del perfil para cada uno de los cargos. Se debe aclarar con respecto a la descripción del perfil de cargo que este se requiere para poder realizar una adecuada selección de personal (estudios, experiencia, conocimientos, etc.)
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/3.png')})`}")
               h3.p-4(style="background-color:#A4A3FF;bottom: -17px;position: absolute;width: 100%;") Requisitos
 
@@ -122,7 +122,7 @@
         p.mt-3 Las unidades administrativas o puestos que intervienen en los procedimientos en cualquiera de sus fases.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Políticas o normas de operación")
         h4 Políticas o normas de operación
-        p.mt-3 Aquí se incluyen los criterios o lineamientos generales de acción que se determinan en forma explícita para facilitar la cobertura de responsabilidad de las distintas instancias que participan en los procedimientos. Aquí se debe contemplar las normas de operación que precisan las situaciones alternativas que pudiesen presentarse en la operación de los procedimientos.
+        p.mt-3 Aquí se incluyen los criterios o lineamientos generales de acción que se determinan en forma explícita para facilitar la cobertura de responsabilidad de las distintas instancias que participan en los procedimientos. Se debe contemplar las normas de operación que precisan las situaciones alternativas que pudiesen presentarse en la operación de los procedimientos.
 
         
 

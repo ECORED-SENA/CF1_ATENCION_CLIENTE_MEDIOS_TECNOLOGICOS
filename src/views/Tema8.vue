@@ -119,7 +119,7 @@
           tr(style="background-color:#F6F6F6;")
             th.p-4(style="border:none;border-right:1px #AFAFAF solid;") Definición
             td.p-4(style="border:none;border-right:1px #AFAFAF solid;") Es cuando se utilizan las palabras en el proceso de transmisión de información entre emisor y receptor.
-            td.p-4(style="border:none;") Es cuando se utilizan las palabras en el proceso de transmisión de información entre emisor y receptor.
+            td.p-4(style="border:none;") Es cuando no se hace uso de palabras para transmitir información de emisor a receptor.
           tr(style="background-color:#FFF;")
             th.p-4(style="border:none;border-right:1px #AFAFAF solid;") Tipo
             td.p-4(style="border:none;border-right:1px #AFAFAF solid;") Oral y escrita
@@ -146,7 +146,7 @@
         .col-md-6.mb-3(style="padding:0px;")
           h3.mb-0.text-center.p-4(style="background-color:#FFDE96;" data-aos="fade-up") Comunicación oral
           img(src="@/assets/curso/temas/tema8/14.png" data-aos="fade-in")
-          .p-5(style="background-color:#FFDE96;min-height:450px;")
+          .p-5(style="background-color:#FFDE96;min-height:600px;")
             p(data-aos="fade-up") Se utilizan las palabras habladas o se emiten sonidos de forma verbal. #[br] La entonación y la vocalización juegan un papel fundamental para que el mensaje llegue efectivamente y pueda ser interpretado por el receptor.
             p.mt-4(data-aos="fade-up") Emplea elementos como la paralingüística, que, a pesar de no ser verbal, ayuda a indicar emociones y sentimientos mientras se habla. (sonidos que indican miedo, sorpresa, interés o desinterés, picardía, entre otros).
             p.mt-4(data-aos="fade-up") Se ha desarrollado con el origen de los idiomas y las características lingüísticas propias de cada población.
@@ -154,7 +154,7 @@
         .col-md-6.mb-3(style="padding:0px;")
           h3.mb-0.text-center.p-4(style="background-color:#FCB315;" data-aos="fade-up") Comunicación escrita
           img(src="@/assets/curso/temas/tema8/15.png" data-aos="fade-in")
-          .p-5(style="background-color:#FCB315;min-height:450px;")
+          .p-5(style="background-color:#FCB315;min-height:600px;")
             p(data-aos="fade-up") Se realiza a través de códigos escritos. 
             p.mt-4(data-aos="fade-up") Puede perdurar en el tiempo. 
             p.mt-4(data-aos="fade-up") La interacción con el receptor no se produce de manera inmediata.

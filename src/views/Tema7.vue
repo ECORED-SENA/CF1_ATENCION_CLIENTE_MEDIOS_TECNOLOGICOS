@@ -57,8 +57,8 @@
         p.mt-3 Esta característica se enfoca en la actitud de los clientes o de la empresa.
         p.mt-4 #[strong Servicio al cliente proactivo:] se da cuando la empresa contacta o busca de manera directa a los clientes, ya sea en cualquier parte del proceso de comercialización de un producto o servicio. Se utiliza para evaluar la satisfacción con la compra, para ofrecer promociones y beneficios, para verificar el seguimiento de un envío, entre otros. Esto permite a la empresa reparar ciertas fallas o mejorar la calidad del servicio, por otra parte, esto genera una fuerte imagen de compromiso y dedicación a los clientes. 
         p.mt-4 #[strong Servicio al cliente reactivo:] aquí, es el cliente el que contacta a la empresa. Principalmente sucede frente a consultas pre y post venta sobre productos, devoluciones o cambios, reparaciones, entre otros. Es por esta razón, que las empresas deben brindar un servicio reactivo posible, que le permita mejorar su reputación y recomendación de la empresa, y de la misma forma una fidelización de los clientes.
-      div(x="78%" y="51%" tooltip="3. En relación al canal de comunicación" numero="3")
-        h3.mt-5 3. En relación al canal de comunicación
+      div(x="78%" y="51%" tooltip="3. En relación con el canal de comunicación" numero="3")
+        h3.mt-5 3. En relación con el canal de comunicación
         p.mt-3 Aquí podemos ver una clasificación de los canales de comunicación más utilizados por las empresas para la atención al cliente y que han venido aumentando con los años por medio de tecnologías específicas en cada área, estos son: 
         p.mt-4 #[strong Servicio al cliente por móvil o teléfono:] es un servicio de información y comunicación entre la empresa y cliente por medio de dispositivo móvil o teléfono. Es común que la llamada derive en un asistente telefónico que automatice las posibles razones por las que los clientes se comunican y brinde información o soporte de manera virtual. Sin embargo, el cliente puede requerir el contacto con algún operador de la empresa para una atención personalizada.
 

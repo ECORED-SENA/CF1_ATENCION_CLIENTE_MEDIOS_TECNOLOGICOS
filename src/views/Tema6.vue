@@ -11,7 +11,7 @@
       .col-md-6.mb-2
         img(src="@/assets/curso/temas/tema6/1.png" data-aos="fade-left")
       .col-md-6
-        p(data-aos="fade-up") #[strong Un cliente es una persona o entidad que compra los bienes y servicios que ofrece una empresa, en otras palabras, se concibe como sinónimo de comprador]. El cliente puede comprar un producto y luego consumirlo, o simplemente comprarlo para que lo disfrute otra persona.
+        p(data-aos="fade-up") Un cliente es una persona o entidad que compra los bienes y servicios que ofrece una empresa, en otras palabras, se concibe como sinónimo de comprador. El cliente puede comprar un producto y luego consumirlo, o simplemente comprarlo para que lo disfrute otra persona.
         p.mt-4(data-aos="fade-up") Es así como el cliente se convierte en el principal foco de atención de una empresa, por lo que todos los planes y estrategias de #[em marketing] se enfocan, desarrollan e implementan en función de él.
         p.mt-4(data-aos="fade-up") Por otra parte, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo de mercado en el que compiten, o en el que comercializan sus productos. Entre estos mercados encontramos:
 
@@ -78,7 +78,7 @@
 
         p.mt-4 #[strong Clientes de alto volumen de compra:] estos se convierten en clientes prioritarios para la empresa, debido a su gran cantidad de compra y que logra representar un porcentaje alto en sus ventas. Se consideran clientes que están satisfechos con el producto. Son conocidos como clientes mayoristas o al por mayor. Muchas veces las empresas valoran a este tipo de cliente otorgándole descuentos o ciertas promociones. 
 
-        p.mt-4 #[strong Clientes con volumen promedio de compra:] realizan compran en forma repetida en un volumen promedio, esto significa que si están contentos con la marca y el producto. Los clientes de este tipo deben de ser obsequiados con recompensas por su fidelidad. Por ejemplo, en una barbería, si el cliente acude 10 veces, el siguiente corte de pelo le saldrá gratis.
+        p.mt-4 #[strong Clientes con volumen promedio de compra:] realizan compras en forma repetida en un volumen promedio, esto significa que si están contentos con la marca y el producto. Los clientes de este tipo deben de ser obsequiados con recompensas por su fidelidad. Por ejemplo, en una barbería, si el cliente acude 10 veces, el siguiente corte de pelo le saldrá gratis.
 
         p.mt-4 #[strong Clientes de bajo volumen de compra:] pueden ser clientes ocasionales o clientes que les agrada el producto y están contentos, pero su capacidad adquisitiva no les permite comprar en mayor cantidad. Son los clientes retail, minoristas o al por menor.
       div(x="82%" y="44%" tooltip="Por su influencia" numero="3")
@@ -110,7 +110,7 @@
 
         p.mt-4 El cliente potencial debe tener un perfil adecuado, poder adquisitivo, una necesidad real o cualquier otro factor. Son algunas de las características que buscan las empresas para poderlos considerar como posibles candidatos para ser incorporados a la empresa. #[br] Pueden ser determinantes para proyectar el futuro del negocio.
 
-        p.mt-4 Es importante mencionar, que los clientes potenciales reciben multitud de propuestas, pero sólo comprarán aquella que perciban que les va a satisfacer una necesidad. Es por esta razón que se hace necesario tener un trato especial donde permita mostrar que la empresa está enfocada en resolver sus problemas.
+        p.mt-4 Es importante mencionar, que los clientes potenciales reciben multitud de propuestas, pero solo comprarán aquella que perciban que les va a satisfacer una necesidad. Es por esta razón que se hace necesario tener un trato especial donde permita mostrar que la empresa está enfocada en resolver sus problemas.
 
 
 
